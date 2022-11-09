@@ -1,7 +1,6 @@
 twilio==7.12.1
 openpyxl
 xgboost
-XGBClassifier
 XGBModel
 click
 Flask
