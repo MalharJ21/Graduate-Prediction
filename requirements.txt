@@ -1,5 +1,6 @@
 twilio==7.12.1
 openpyxl
+xgboost
 click
 Flask
 Flask-Cors
