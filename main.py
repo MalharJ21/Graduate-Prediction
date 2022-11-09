@@ -170,7 +170,7 @@ def predict():
         input_df.drop(['Name'], axis=1, inplace=True)
         # print(data_df.columns)
         # print(input_df.columns)
-        xgb_predictor = joblib.load('XGBoost predictor.joblib')
+        xgb_predictor = joblib.load('Booster.save_model')
         probability = np.squeeze(xgb_predictor.predict_proba(input_df))[1]
         final_answer = 'Your chance of getting admit is ' + str(np.round(probability, 2))
 
