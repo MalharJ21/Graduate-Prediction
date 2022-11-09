@@ -1,0 +1,132 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Prediction</title>
+</head>
+<body>
+
+<form action="{{ url_for('predict')}}" method="post" enctype="multipart/form-data">
+            <table border="0">
+                <tr>
+                    <td>
+                        <label>Name</label>
+                        <br><br>
+                        <input type="text" name="Name" required>
+                    </td>
+                    <td>
+                        <label>University</label>
+                        <br><br>
+                        <select name="University" required>
+                            <option value="">Select</option>
+                        {% for u in universities: %}
+                            <option value={{u}}>{{u}}</option>
+                        {% endfor %}
+                        </select>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <label>Specialization</label>
+                        <br><br>
+                        <select name="Specialization" required>
+                            <option value="">Select</option>
+                            {% for s in specialization: %}
+                                <option value="{{s}}">{{s}}</option>
+                            {% endfor %}
+                        </select>
+                    </td>
+                    <td>
+                        <label>CGPA</label>
+                        <br><br>
+                        <input type="text" name="CGPA" required>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <label>Work Exp (in months)</label>
+                        <br><br>
+                        <input type="text" name="Work Exp" required>
+                    </td>
+                    <td>
+                       <label>Research</label>
+                        <br><br>
+                        <input type="text" name="Research" required>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <label>Quant</label>
+                        <br><br>
+                        <input type="text" name="Quant" required>
+                    </td>
+                    <td>
+                        <label>Verbal</label>
+                        <br><br>
+                        <input type="text" name="Verbal" required>
+                        <br>
+                    </td>
+                </tr>
+                <tr>
+                     <td>
+                        <label>AWA</label>
+                        <br><br>
+                        <input type="text" name="AWA" required>
+                     </td>
+                    <td>
+                        <label>GRE</label>
+                        <br><br>
+                        <input type="text" name="GRE" required>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <label>Speaking</label>
+                        <br><br>
+                        <input type="text" name="Speaking" required>
+                    </td>
+                    <td>
+                        <label>Listening</label>
+                        <br><br>
+                        <input type="text" name="Listening" required>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <label>Writing</label>
+                        <br><br>
+                        <input type="text" name="Writing" required>
+                    </td>
+                    <td>
+                        <label>Reading</label>
+                        <br><br>
+                        <input type="text" name="Reading" required>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <label>Exam</label>
+                        <br><br>
+                        <select name="Exam" required>
+                            <option value="">Select</option>
+                            {% for e in exam: %}
+                                <option value="{{e}}">{{e}}</option>
+                            {% endfor %}
+                        </select>
+                    </td>
+                    <td>
+                        <label>Score</label>
+                        <br><br>
+                        <input type="text" name="Score" required>
+                    </td>
+                </tr>
+            </table>
+        </div>
+        <div class="container2">
+            <button class="predict" type="submit">Predict</button>
+            <label>{{ final_answer }}</label>
+            <button class="reset" type="reset"><a href="{{ url_for('predict') }}">Clear</a></button>
+        </div>
+    </form>
+</body>
+</html>

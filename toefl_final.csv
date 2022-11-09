@@ -1,0 +1,1230 @@
+Name,cgpa,course,WorkExp(Months),WorkExp(Years),research,QUANT,VERBAL,AWA,GRE,SPEAKING,Listening,Writing,Reading,TOEFL_IELTS,admit_reject
+Ram Vardhan Ramraj,8.51,Arizona State University - Tempe - Computer Science,0,0.0,1,161,143,3.5,304,28,26,22,24,100,admit
+Atharva Pradhan,9.43,Arizona State University - Tempe - Robotics and Autonomous Systems - Mechanical and Aerospace Engineering,0,0.0,0,167,144,3.5,311,26,29,25,27,107,admit
+Yash Paliwal,8.2,Arizona State University - Tempe - Robotics and Autonomous Systems - Artificial Intelligence,3,0.3,0,169,160,3.0,329,23,28,21,25,97,admit
+Kaustubh Kothawale,8.84,Arizona State University - Tempe - Computer Science,34,2.1,0,167,148,1.5,315,24,26,26,27,103,admit
+Suraj Sunke,6.65,Arizona State University - Tempe - Information Systems Management,12,1.0,0,166,152,2.5,318,24,22,21,21,88,admit
+Rohit Krishna,8.65,Arizona State University - Tempe - Computer Science,0,0.0,0,164,152,3.5,316,25,24,25,30,104,admit
+Arshak Shan,8.87,Arizona State University - Tempe - Software Engineering,8,0.8,1,163,154,4.5,317,26,28,30,25,109,admit
+Subham Kumar,8.51,Arizona State University - Tempe - Software Engineering,60,5.0,0,163,152,3.5,315,24,26,24,26,100,admit
+Subham Kumar,8.51,Arizona State University - Tempe - Computer Science,60,5.0,0,163,152,3.5,315,24,26,24,26,100,reject
+Kathan Desai,8.7,Arizona State University - Tempe - Chemical Engineering MSc,0,0.0,0,162,152,3.0,314,23,30,24,24,101,admit
+Sharath Kamlekar,9.8,Arizona State University - Tempe - Computer Science,20,1.8,0,168,162,4.5,330,27,29,26,28,110,admit
+Jay Chiddarwar,8.25,Arizona State University - Tempe - Software Engineering,10,0.1,1,166,150,3.0,316,22,25,20,28,95,admit
+Bharat S,9.6,Arizona State University - Tempe - Mechanical Engineering,4,0.4,1,151,161,4.0,312,30,26,30,26,112,admit
+Juhi Malkani,9.22,Arizona State University - Tempe - Computer Science,18,1.6,0,161,152,4.0,313,26,30,28,28,112,reject
+Venkata Abhinav Dusi,8.82,Arizona State University - Tempe - Robotics and Autonomous Systems,0,0.0,0,159,147,4.0,306,23,25,21,23,92,admit
+Shubham Jadhav,8.32,Arizona State University - Tempe - Electrical Engineering,0,0.0,0,169,161,3.0,330,22,30,28,25,105,reject
+Aravind P V,8.26,Arizona State University - Tempe - Software Engineering,0,0.0,2,161,153,4.0,314,25,30,26,28,109,admit
+Chetan Sahrudhai Kimidi,9.36,Arizona State University - Tempe - Computer Science,3,0.3,0,165,150,4.0,315,25,28,27,29,109,reject
+Nishant Dave,9.52,Arizona State University - Tempe - Software Engineering,4,0.4,3,168,150,4.0,318,26,27,30,29,112,admit
+Gangey Patel,9.16,Arizona State University - Tempe - Computer Science,5,0.5,0,166,149,3.5,315,23,26,25,28,102,admit
+Kaustubh Srivastava,7.0,Arizona State University - Tempe - Business Analytics,24,2.0,0,162,149,4.0,311,28,21,24,17,90,admit
+Ashutosh Mangle,8.78,Arizona State University - Tempe - Engineering - Civil Engineering,27,2.3,0,160,150,4.0,310,24,27,29,28,108,admit
+Rishabh Singh,8.23,Arizona State University - Tempe - Electrical Engineering - Robotics and Computer Vision,13,1.1,1,162,146,3.5,308,25,24,20,23,92,admit
+Suraj Patil,9.13,Arizona State University - Tempe - Management of Technology,0,0.0,0,164,145,3.0,309,24,26,23,27,100,admit
+Pranav Kapoor,8.81,Arizona State University - Tempe - Information Technology,12,1.0,3,161,152,4.0,313,24,26,24,25,99,admit
+Vinayak S,8.55,Arizona State University - Tempe - Computer Science,3,0.3,0,164,148,4.0,312,25,24,22,24,95,admit
+Sathvik Reddy,6.0,Arizona State University - Tempe - Civil Engineering - Construction Engineering and Management,1,0.1,0,162,159,3.0,321,23,25,22,30,100,admit
+Justine George,7.53,Arizona State University - Tempe - Computer Science,28,2.4,0,170,163,4.5,333,26,30,30,30,116,admit
+Sree Charan Raj Duvva,9.06,Arizona State University - Tempe - Industrial Engineering,4,0.4,0,167,151,4.5,318,27,24,28,28,107,admit
+Pranav B P,7.3,Arizona State University - Tempe - Computer Science,18,1.6,0,154,146,3.0,300,29,27,23,27,106,reject
+Pranav Sharma,9.4,Arizona State University - Tempe - Artificial Intelligence and Robotics,0,0.0,6,160,153,3.5,313,22,30,27,25,104,admit
+Harshawardhan Kumar Unsasi,8.88,Arizona State University - Tempe - Mechanical Engineering - Automation and Robotic Systems,3,0.3,2,168,149,3.5,317,28,23,23,27,101,admit
+Viv Anand,7.6,Arizona State University - Tempe - Mechanical Engineering,6,0.6,1,162,156,4.5,318,30,28,28,27,113,admit
+Rahul Reddy,9.0,Arizona State University - Tempe - Computer Science,4,0.4,3,170,161,4.5,331,20,20,16,20,76,admit
+Kushan Dixit,7.62,Arizona State University - Tempe - Civil Engineering,36,3.0,0,159,157,4.0,316,22,24,24,28,98,admit
+Mukul M,8.73,Arizona State University - Tempe - Computer Science,12,1.0,0,167,156,5.0,323,26,30,30,30,116,admit
+Atharva Parte,7.96,Arizona State University - Tempe - Computer Science,6,0.6,0,160,143,3.5,303,23,27,24,25,99,reject
+Kamran Adil,7.2,Arizona State University - Tempe - Computer Science,62,5.2,0,150,144,3.5,294,28,28,22,28,106,reject
+Akshay Viswanathan,8.05,Arizona State University - Tempe - Software Engineering,30,2.6,1,168,152,4.0,320,27,28,27,28,110,admit
+Yousuf Nizam,7.22,Arizona State University - Tempe - Computer Science,31,2.7,0,167,160,4.0,327,25,29,28,30,112,admit
+Sai Ram Naragoni,8.53,Arizona State University - Tempe - Computer Science,31,2.7,0,168,150,4.0,318,29,28,27,29,113,admit
+Awani Kendurkar,8.72,Arizona State University - Tempe - Computer Science,2,0.2,2,166,158,4.0,324,28,29,25,29,111,admit
+Shivam Rai Sharma,8.75,Arizona State University - Tempe - Computer Science (Hons),29,2.5,3,164,165,5.0,329,23,30,28,30,111,admit
+Navya Singla,9.37,Arizona State University - Tempe - Computer and Electrical Engineering,20,1.8,0,168,152,3.5,320,24,30,23,26,103,admit
+Mehul Nachankar,9.26,Arizona State University - Tempe - Electrical Engineering,8,0.8,0,166,148,4.0,314,25,28,25,29,107,admit
+Aishwarya Sasane,7.75,Arizona State University - Tempe - Management Information Systems,30,2.6,0,163,152,4.0,315,27,30,28,29,114,admit
+Tanmay Kapoor,9.33,Arizona State University - Tempe - Computer Science,4,0.4,0,167,157,5.0,324,29,29,29,27,114,admit
+Nagaraju Machavarapu,7.6,Arizona State University - Tempe - Computer Science,30,2.6,0,169,153,4.0,322,23,28,26,29,106,admit
+Nagendra Babu Shakamuri,8.53,Arizona State University - Tempe - Computer Science,18,1.6,0,155,149,3.5,304,19,21,27,26,93,reject
+Shantanu Lohar,9.29,Arizona State University - Tempe - Computer Engineering - Electrical Engineering,4,0.4,0,164,153,4.5,317,30,27,27,26,110,admit
+Rammanoj Potla,9.38,Arizona State University - Tempe - Computer Science,20,1.8,1,164,143,3.5,307,27,26,25,26,104,admit
+Manjesh M Gowda,8.26,Arizona State University - Tempe - Construction Management and Technology,0,0.0,0,153,142,3.0,295,25,29,23,21,98,admit
+Kunal Shah,9.7,Arizona State University - Tempe - Computer Science,10,0.1,1,167,152,4.0,319,27,28,24,28,107,admit
+Devanshu Desai,8.55,Arizona State University - Tempe - Software Engineering,9,0.9,0,167,154,3.0,321,24,23,22,25,94,admit
+Abrar Mohammed,9.15,Arizona State University - Tempe - Computer Science,8,0.8,3,164,149,4.0,313,23,29,21,28,101,admit
+Prathmesh Chandwade,7.82,Arizona State University - Tempe - Computer Science,2,0.2,1,162,146,3.5,308,23,25,22,25,95,admit
+Rishabh Singh,7.73,Arizona State University - Tempe - Information Technology,0,0.0,0,161,145,2.5,306,23,23,24,26,96,admit
+Khalid Shaikh,9.5,Arizona State University - Tempe - Computer Science (Cyber Security),0,0.0,2,155,147,3.5,302,22,27,20,24,93,reject
+Syed Ayaz,8.5,Arizona State University - Tempe - Computer Science,6,0.6,5,168,156,4.0,324,27,30,29,27,113,admit
+Nikhil Panda,7.7,Arizona State University - Tempe - Computer Science,10,0.1,0,167,146,3.5,313,23,25,28,28,104,admit
+Balaji Rajaguru Rajakumar,8.3,Arizona State University - Tempe - Computer Science,0,0.0,3,164,154,4.0,318,28,28,24,27,107,admit
+Aravind P V,8.26,Arizona State University - Tempe - Computer Science,0,0.0,2,161,153,4.0,314,25,30,26,28,109,reject
+Manoj Dara,6.85,Arizona State University - Tempe - Software Engineering,28,2.4,0,170,161,3.0,331,26,25,27,28,106,admit
+Harsh Waichal,7.9,Arizona State University - Tempe - Industrial Design,12,1.0,0,162,152,4.5,314,29,25,22,23,99,admit
+Chinmay Chavan,8.02,Arizona State University - Tempe - Mechanical Engineering,30,2.6,1,169,157,4.0,326,23,30,23,29,105,admit
+Labassana Lok,9.09,Arizona State University - Tempe - Computer Science,6,0.6,3,166,152,4.0,318,23,25,25,25,98,admit
+Ijaj Ahmed,8.3,Arizona State University - Tempe - Computer Engineering - Computer Systems,48,4.0,1,162,146,3.0,308,23,24,22,23,92,admit
+Harshvadan Mihir,8.14,Arizona State University - Tempe - Computer Engineering - Computer Systems,0,0.0,1,164,152,4.0,316,22,29,27,29,107,admit
+Varun Agarwal,8.37,Arizona State University - Tempe - Computer Science,20,1.8,2,167,150,3.5,317,25,25,30,24,104,admit
+Uday Menon,8.4,Arizona State University - Tempe - Computer Science,40,3.4,1,164,157,3.5,321,25,28,24,27,104,admit
+Ruthwik B G,8.63,Arizona State University - Tempe - Computer Science,6,0.6,2,164,154,3.0,318,22,25,24,30,101,reject
+Faizan Shaikh,8.35,Arizona State University - Tempe - Computer Science,3,0.3,0,161,158,4.0,319,25,26,25,26,102,admit
+Dhrumil Shah,8.9,Arizona State University - Tempe - Computer Science,6,0.6,0,168,151,3.5,319,25,26,26,25,102,admit
+Akshat Bakliwal,7.74,Arizona State University - Tempe - Software Engineering,6,0.6,1,165,146,3.0,311,22,29,21,23,95,admit
+Ireish Purohit,7.28,Arizona State University - Tempe - Software Engineering,30,2.6,0,166,155,4.0,321,23,28,25,26,102,admit
+Mohit Vaidya,8.56,Arizona State University - Tempe - Computer Engineering - Electrical Engineering,0,0.0,0,159,158,4.5,317,28,27,27,30,112,admit
+Visaj Shah,8.09,Arizona State University - Tempe - Computer Science,0,0.0,2,170,158,5.0,328,27,29,30,30,116,admit
+Abhishek Ramakrishnamoorthy,8.21,Arizona State University - Tempe - Computer Science,30,2.6,0,160,160,4.0,320,29,27,23,26,105,admit
+Panuganti Jayanth Kumar,9.2,Arizona State University - Tempe - Computer Engineering - Electrical Engineering,1,0.1,1,167,154,3.5,321,20,26,24,26,96,admit
+Rahul Jois,8.88,Arizona State University - Tempe - Computer Science,28,2.4,1,168,156,4.0,324,30,24,28,29,111,admit
+Keval Shah,8.26,Arizona State University - Tempe - Computer Science - Big Data Systems,6,0.6,2,164,150,3.0,314,22,27,22,27,98,admit
+Srikant Nag,8.45,Arizona State University - Tempe - Computer Engineering - Electrical Engineering,0,0.0,0,162,155,3.0,317,25,24,21,28,98,admit
+Subhash Y,7.75,Arizona State University - Tempe - Construction Management,0,0.0,0,155,146,3.5,301,23,18,22,22,85,admit
+Sudesh Pawar,9.02,Arizona State University - Tempe - Computer Science,12,1.0,4,164,151,4.0,315,25,30,30,29,114,reject
+Priyansh Zalavadiya,8.5,Arizona State University - Tempe - Computer Science (Big Data),30,2.6,0,166,156,3.0,322,20,29,28,28,105,admit
+Yogesh Raisinghani,9.27,Arizona State University - Tempe - Computer Science,10,0.1,2,163,147,3.5,310,25,29,24,28,106,reject
+Ranajit Roy,8.97,Arizona State University - Tempe - Computer Science,13,1.1,1,167,158,4.0,325,25,28,20,30,103,admit
+Ritwik Vaidya,9.33,Arizona State University - Tempe - Computer Science,5,0.5,1,168,153,4.0,321,25,29,25,27,106,admit
+Aditya Malhotra,8.62,Arizona State University - Tempe - Computer Science,30,2.6,1,166,155,4.0,321,29,28,24,27,108,admit
+Sanjay Prabhakar,8.3,Arizona State University - Tempe - Computer Science,0,0.0,0,170,160,4.0,330,23,29,25,27,104,admit
+Amartya Kalapahar,8.96,Arizona State University - Tempe - Computer Science,13,1.1,1,166,142,4.0,308,25,25,30,27,107,admit
+Mansi Saxena,8.66,Arizona State University - Tempe - Computer Science,5,0.5,0,166,157,4.5,323,30,25,30,29,114,admit
+Harish Balasubramaniam,8.1,Arizona State University - Tempe - Computer Science,5,0.5,2,165,153,4.0,318,26,30,28,28,112,reject
+Sahil Singh,7.67,Arizona State University - Tempe - Electrical Engineering,18,1.6,1,167,147,3.0,314,24,29,22,23,98,admit
+Aditya Kumar,7.88,Arizona State University - Tempe - Electrical Engineering,6,0.6,6,160,146,3.5,306,21,28,30,26,105,admit
+Nabeel Khan,7.43,Arizona State University - Tempe - Business Analytics,2,0.2,0,152,166,4.0,318,24,29,25,28,106,admit
+Shashank Kandaala,7.74,Arizona State University - Tempe - Computer Science,4,0.4,1,168,146,3.5,314,23,29,28,25,105,reject
+Sandip Sharan,8.56,Arizona State University - Tempe - Robotics and Autonomous Systems - Mechanical and Aerospace Engineering,0,0.0,0,162,143,3.5,305,24,27,27,29,107,admit
+Jagannath Jayanti,8.4,Arizona State University - Tempe - Computer Science (Software Engineering),0,0.0,3,170,162,4.5,332,29,28,29,29,115,admit
+Harsh Agrawal,8.9,Arizona State University - Tempe - Software Engineering,2,0.2,3,163,155,4.0,318,28,30,27,30,115,admit
+Rohan Kacheria,7.9,Arizona State University - Tempe - Computer Science,12,1.0,2,163,150,4.5,313,27,25,29,29,110,reject
+Ankur Banerji,9.61,Arizona State University - Tempe - Computer Science,3,0.3,0,165,147,3.5,312,30,27,23,23,103,admit
+Anuj Mahajan,8.99,Arizona State University - Tempe - Computer Science,30,2.6,1,160,151,3.0,311,25,27,24,27,103,reject
+Ishan Patel,8.5,Arizona State University - Tempe - Electrical Engineering,1,0.1,3,162,147,3.5,309,24,22,26,24,96,admit
+Atharva Pimpalgaonkar,9.65,Arizona State University - Tempe - Electrical Engineering,0,0.0,0,158,152,3.5,310,24,28,23,29,104,admit
+Karan Gala,9.03,Arizona State University - Tempe - Computer Science,4,0.4,1,169,144,4.0,313,29,25,22,26,102,admit
+Rama Narasimhan,8.03,Arizona State University - Tempe - Computer Science,38,3.2,0,168,155,4.0,323,21,26,27,30,104,admit
+Subhadeep Jana,9.07,Arizona State University - Tempe - Computer Science,0,0.0,1,164,156,4.0,320,29,30,28,29,116,admit
+Prabin Rath,8.91,Arizona State University - Tempe - Robotics and Autonomous Systems - Artificial Intelligence,24,2.0,6,167,160,3.5,327,25,29,26,24,104,admit
+Chetan Kumar,8.0,Arizona State University - Tempe - Robotics and Autonomous Systems - Mechanical and Aerospace Engineering,0,0.0,0,164,164,2.5,328,23,30,21,27,101,admit
+Pranathi Kunadi,9.57,Arizona State University - Tempe - Computer Science - Software Engineering,27,2.3,1,169,151,4.0,320,26,29,29,28,112,admit
+Mihir Ahlawat,8.22,Arizona State University - Tempe - Computer Science,24,2.0,1,169,152,4.5,321,26,30,25,27,108,admit
+Paurush Batish,8.44,Arizona State University - Tempe - Computer Science (Software Engineering),11,0.11,0,163,155,4.5,318,27,27,25,25,104,admit
+Pratik Kharade,8.65,Arizona State University - Tempe - Computer Science,36,3.0,0,170,154,4.0,324,26,28,28,30,112,admit
+Zoheb Mir,7.58,Arizona State University - Tempe - Electrical Engineering,0,0.0,1,154,149,3.5,303,24,27,27,27,105,admit
+Sarthak Dalal,8.8,Arizona State University - Tempe - Computer Science,0,0.0,3,168,149,5.0,317,28,27,30,29,114,reject
+Aditya Acharya,8.54,Arizona State University - Tempe - Computer Science,30,2.6,0,159,149,4.0,308,29,30,29,27,115,reject
+Karthik Muraliprasad,8.53,Arizona State University - Tempe - Computer Science,17,1.5,0,167,157,4.0,324,28,29,28,30,115,admit
+Sai Krishna Sashank Madipally,9.25,Arizona State University - Tempe - Computer Science,14,1.2,1,164,158,4.0,322,28,28,26,28,110,admit
+Parth Gulavani,7.82,Arizona State University - Tempe - Information Systems Management,5,0.5,0,161,151,4.0,312,26,27,27,26,106,admit
+Shaurya Rawat,8.8,Arizona State University - Tempe - Computer Science,3,0.3,2,168,158,5.0,326,22,28,30,30,110,admit
+Yagaa Gowtham,7.39,Arizona State University - Tempe - Computer Science,20,1.8,1,167,158,4.0,325,27,30,24,30,111,admit
+Chris H,8.65,Arizona State University - Tempe - Computer Science,28,2.4,0,165,158,4.0,323,25,30,24,30,109,admit
+Priyansh Patel,9.4,Arizona State University - Tempe - Computer Science,3,0.3,1,168,159,4.5,327,30,28,28,26,112,reject
+Sam S,9.0,Arizona State University - Tempe - Computer Science,8,0.8,1,164,154,3.5,318,23,28,23,26,100,admit
+Suvarna T A,7.65,Arizona State University - Tempe - Electrical Engineering,36,3.0,0,161,150,4.0,311,22,27,24,29,102,admit
+Somik Dhar,8.52,Arizona State University - Tempe - Robotics and Autonomous Systems,11,0.11,0,167,147,4.0,314,23,29,27,29,108,admit
+Shubham Soni,7.77,Arizona State University - Tempe - Aerospace Engineering,2,0.2,1,157,147,3.0,304,21,23,22,23,89,reject
+Venkatesh Madasu,7.07,Arizona State University - Tempe - Computer Science,84,7.0,2,161,146,3.0,307,23,28,24,28,103,reject
+Anil Antony K,7.55,Arizona State University - Tempe - Mechanical Engineering,5,0.5,1,160,156,4.0,316,25,29,27,28,109,reject
+Ujjwal Sharma,7.95,Arizona State University - Tempe - Computer Science,25,2.1,0,167,154,4.5,321,26,27,29,30,112,admit
+Mike Morgan,8.83,Arizona State University - Tempe - Computer Science,11,0.11,2,170,154,4.0,324,26,28,28,27,109,admit
+Ishika Rastogi,8.62,Arizona State University - Tempe - Electrical Engineering - Very Large Scale Integration Design,0,0.0,1,157,144,3.5,301,23,23,24,24,94,admit
+Anirudh Banda,9.8,Arizona State University - Tempe - Computer Engineering - Electrical Engineering,24,2.0,0,160,154,3.0,314,22,27,28,28,105,admit
+Ravichandra Basireddy,9.95,Arizona State University - Tempe - Software Engineering,16,1.4,0,162,142,3.0,304,20,24,23,28,95,admit
+Abhishek Keripale,7.49,Arizona State University - Tempe - Mechanical Engineering,2,0.2,1,155,147,3.0,302,22,25,28,21,96,admit
+Asha Latha,9.33,Arizona State University - Tempe - Computer Science,60,5.0,0,162,142,3.0,304,26,26,26,25,103,admit
+Sudipta Dey,7.9,Arizona State University - Tempe - Computer Science,104,8.8,0,166,149,3.5,315,21,24,28,23,96,admit
+Hemant Singh,7.72,Arizona State University - Tempe - Software Engineering,22,1.1,0,168,159,3.5,327,24,24,24,28,100,admit
+Jay Shete,7.9,Arizona State University - Tempe - Computer Science,34,2.1,0,163,149,4.0,312,26,25,26,23,100,admit
+Kiran Shanthappa,8.89,Arizona State University - Tempe - Computer Science,60,5.0,1,159,144,3.0,303,26,22,24,23,95,admit
+Swapnil Patil,8.0,Arizona State University - Tempe - Finance - MS,41,3.5,0,167,153,4.0,320,27,25,24,23,99,admit
+Mallikarjun Vadi,8.33,Arizona State University - Tempe - Aerospace Engineering,0,0.0,0,159,152,3.0,311,25,22,22,23,92,admit
+Kunal Rana,7.02,Arizona State University - Tempe - Industrial Engineering,0,0.0,1,154,144,3.0,298,23,25,26,24,98,reject
+Arnav Agarwal,8.4,Arizona State University - Tempe - Business Analytics,10,0.1,1,162,153,4.5,315,28,28,24,28,108,admit
+Dhanush Bejjarapu,8.55,Arizona State University - Tempe - Civil Engineering,0,0.0,0,165,153,4.5,318,27,30,28,28,113,admit
+Sushanth Manivannan,9.06,Arizona State University - Tempe - Computer Engineering,1,0.1,0,165,158,4.0,323,29,25,27,30,111,admit
+Vedant Joshi,8.68,Arizona State University - Tempe - Mechanical Engineering,5,0.5,2,160,155,4.5,315,29,26,27,24,106,admit
+Madhu Alla,8.9,Arizona State University - Tempe - Computer Science,6,0.6,1,165,145,4.0,310,24,28,25,26,103,admit
+Swarnangshu Ghosh,7.7,Arizona State University - Tempe - Civil Engineering,0,0.0,3,165,155,4.0,320,28,28,28,30,114,admit
+Fenny Zalavadia,9.49,Arizona State University - Tempe - Computer Science,12,1.0,2,165,141,3.5,306,26,23,28,22,99,admit
+Harsha Vardhan Reddy,7.98,Arizona State University - Tempe - Computer Science,19,1.7,0,166,159,5.0,325,24,26,29,26,105,admit
+Yagnik Banerjee,8.58,Arizona State University - Tempe - Aerospace Engineering,1,0.1,0,162,145,3.5,307,28,28,28,25,109,admit
+Sounak Saha,7.79,Arizona State University - Tempe - Biology,23,1.11,4,166,147,3.5,313,27,27,23,23,100,admit
+Kartikey Verma,7.2,Arizona State University - Tempe - Mechanical Engineering,0,0.0,0,161,149,2.5,310,18,24,21,27,90,admit
+Janish Parikh,8.72,Arizona State University - Tempe - Computer Science,0,0.0,0,167,158,4.5,325,29,30,24,30,113,admit
+Tanush Tripathi,8.2,Arizona State University - Tempe - Computer Science,24,2.0,1,160,146,4.0,306,22,25,24,23,94,reject
+Tanush Tripathi,8.2,Arizona State University - Tempe - Information Technology,24,2.0,1,160,146,4.0,306,22,25,24,23,94,admit
+Namrata Ruchandani,7.42,Arizona State University - Tempe - Information Technology,0,0.0,0,165,143,3.5,308,24,24,25,28,101,admit
+Suhas Suresh,9.42,Arizona State University - Tempe - Computer Science,18,1.6,2,167,158,4.0,325,29,29,29,30,117,admit
+Vikas Tadepu,8.47,Arizona State University - Tempe - Computer Science,3,0.3,0,166,153,3.0,319,21,25,22,25,93,admit
+Devansh Modi,7.54,Arizona State University - Tempe - Industrial Engineering,3,0.3,0,159,150,4.0,309,30,24,27,23,104,admit
+Sanskriti Sawant,7.19,Arizona State University - Tempe - Computer Engineering,2,0.2,0,161,147,4.0,308,24,30,24,25,103,reject
+Hemendu Roy,7.58,Arizona State University - Tempe - Computer Science,24,2.0,1,165,155,5.0,320,26,30,29,29,114,admit
+Rahol Saha,8.41,Arizona State University - Tempe - Computer Science,9,0.9,0,165,150,4.0,315,27,25,25,27,104,admit
+Paras Wankhede,8.47,Arizona State University - Tempe - Construction Management,0,0.0,0,161,149,4.0,310,26,30,22,28,106,admit
+Harish R,7.1,Arizona State University - Tempe - Computer Science,30,2.6,0,168,156,0.0,324,23,28,24,30,105,admit
+Jugal Gore,7.0,Arizona State University - Tempe - Electrical Engineering,25,2.1,1,165,165,5.0,330,27,22,26,24,99,admit
+Rishita Reddy,9.03,Arizona State University - Tempe - Computer Science,14,1.2,0,168,152,4.0,320,25,28,28,30,111,admit
+Shreyas Kulkarni,8.99,Arizona State University - Tempe - Computer Science,0,0.0,1,162,150,3.0,312,28,23,25,27,103,reject
+Deepesh Makhija,8.14,Arizona State University - Tempe - Mechanical Engineering,0,0.0,0,166,145,3.0,311,25,27,24,28,104,admit
+Vishal Juvekar,8.82,Arizona State University - Tempe - Construction Management,5,0.5,0,154,142,3.0,296,25,24,23,23,95,admit
+Vedaant Rajoo,8.12,Arizona State University - Tempe - Computer Science,0,0.0,1,160,160,5.0,320,28,30,27,28,113,admit
+Shashank R,9.2,Arizona State University - Tempe - Computer Science,0,0.0,1,165,156,3.5,321,25,29,30,29,113,admit
+Tulika Sureka,9.67,Arizona State University - Tempe - Computer Science,20,1.8,2,165,148,4.0,313,29,25,26,25,105,admit
+Prithvi Dev K V,7.97,Arizona State University - Tempe - Mechanical Engineering,6,0.6,0,159,150,3.5,309,23,29,23,29,104,admit
+Prajwal Manjunath,8.7,Arizona State University - Tempe - Computer Science,24,2.0,0,154,155,3.5,309,24,27,22,23,96,reject
+Aditya Malik,6.6,Arizona State University - Tempe - Computer Science,24,2.0,1,161,152,4.0,313,24,27,22,28,101,reject
+Rithish Kesav S,8.2,Arizona State University - Tempe - Computer Science,6,0.6,2,162,145,4.0,307,28,27,26,25,106,admit
+Ikshaku Goswami,8.7,Arizona State University - Tempe - Computer Science,24,2.0,0,161,160,4.5,321,27,28,29,28,112,admit
+Srinidhi Kashyap,8.64,Arizona State University - Tempe - Chemical Engineering,14,1.2,4,160,152,3.5,312,26,29,29,29,113,admit
+Chandrateja Kommineni,7.69,Arizona State University - Tempe - Engineering,24,2.0,0,166,155,3.0,321,20,26,24,29,99,admit
+Nidhi Parikh,7.3,Arizona State University - Tempe - Architecture,24,2.0,1,150,143,2.5,293,24,23,20,18,85,admit
+Rohan Kumar,8.5,Arizona State University - Tempe - Industrial Engineering,1,0.1,0,163,148,3.5,311,27,27,28,23,105,admit
+Vaibhav Mani,8.38,Arizona State University - Tempe - Computer Engineering,36,3.0,2,164,154,4.0,318,23,27,24,24,98,admit
+Saranya Ravva,8.5,Arizona State University - Tempe - Aerospace Engineering,0,0.0,0,158,149,3.5,307,24,24,22,22,92,admit
+Devki Desai,8.06,Arizona State University - Tempe - Computer Science,0,0.0,0,170,155,4.0,325,27,27,30,26,110,admit
+Jai Iyer,9.49,Arizona State University - Tempe - Computer Engineering,6,0.6,1,162,139,3.0,301,25,25,25,25,100,admit
+Sudhir Garg,9.2,Arizona State University - Tempe - Computer Science,0,0.0,0,164,154,3.0,318,22,30,23,29,104,admit
+Ritesh Mohan,7.2,Arizona State University - Tempe - Computer Science,0,0.0,0,165,160,4.0,325,28,24,25,27,104,admit
+Mohit Tikariya,7.6,Arizona State University - Tempe - Computer Engineering,0,0.0,0,158,144,3.0,302,19,25,23,28,95,reject
+Manu Bhargav S S,8.05,Arizona State University - Tempe - Computer Science,30,2.6,1,161,155,3.5,316,20,25,25,27,97,reject
+Kashi Vishwanath Kolloju,8.65,Arizona State University - Tempe - Electrical Engineering,0,0.0,0,160,154,3.0,314,24,25,23,23,95,admit
+Chetan Kumar,8.0,Boston University - Mechanical Engineering with Robotics (with an industrial placement year),0,0.0,0,164,164,2.5,328,23,30,21,27,101,admit
+Sayantan Pal,8.73,Boston University - Computer Science,42,3.6,0,162,165,3.5,327,27,28,28,30,113,admit
+Sahithi Arekatla,8.96,Boston University - Computer Science,0,0.0,0,161,139,3.5,300,28,22,23,24,97,admit
+Arpit Patil,9.74,Boston University - Computer Science,6,0.6,2,167,147,4.0,314,23,27,26,29,105,admit
+Pranav Kapoor,8.81,Boston University - Computer Science,12,1.0,3,161,152,4.0,313,24,26,24,25,99,admit
+Varun Agarwal,8.37,Boston University - Computer Science,20,1.8,2,167,150,3.5,317,25,25,30,24,104,admit
+Jenny Fer,7.41,Boston University - Data Analytics,9,0.9,0,170,157,5.0,327,29,30,30,30,119,admit
+Abhishek Pradhan,7.8,Boston University - Data Analytics,18,1.6,1,161,144,3.0,305,23,26,28,28,105,admit
+Pranav P,9.61,Boston University - Biomedical Engineering,18,1.6,3,168,161,4.5,329,25,30,29,28,112,admit
+Aanchal Sahu,8.95,Boston University - Artificial Intelligence,5,0.5,5,157,157,4.5,314,26,28,29,26,109,admit
+Sandip Sharan,8.56,Boston University - Robotics and Autonomous Systems,0,0.0,0,162,143,3.5,305,24,27,27,29,107,admit
+Rohan Kacheria,7.9,Boston University - Computer Science,12,1.0,2,163,150,4.5,313,27,25,29,29,110,admit
+Akshat Bakliwal,7.74,Boston University - Computer Science,6,0.6,1,165,146,3.0,311,22,29,21,23,95,admit
+Adithya Abhishek Chenthilkannan,8.3,Boston University - Data Science,0,0.0,0,160,152,4.0,312,23,29,25,27,104,admit
+Vivek Unnikrishnan,7.44,Boston University - Computer Science,36,3.0,0,168,151,4.0,319,30,27,25,27,109,admit
+Aditya Malik,6.6,Boston University - Computer Science,24,2.0,1,161,152,4.0,313,24,27,22,28,101,admit
+Prishita Kadam,9.22,Boston University - Computer Science,0,0.0,0,159,147,3.5,306,22,26,22,26,96,admit
+Kashish Santani,6.85,Boston University - Information Systems (MIS),0,0.0,0,166,154,3.5,320,26,25,26,29,106,admit
+Ajay Babu Gorantla,7.27,Boston University - Artificial Intelligence,8,0.8,0,159,153,4.0,312,18,23,24,23,88,reject
+Tanush Tripathi,8.21,Boston University - Information Systems (MIS),24,2.0,1,160,146,4.0,306,22,25,24,23,94,admit
+Dinesh B,7.38,Boston University - Information Systems (MIS),6,0.6,1,154,140,3.0,294,19,23,28,20,90,admit
+Shailee Maheshwari,6.32,Boston University - Economics,32,2.8,0,165,147,3.5,312,26,26,25,22,99,reject
+Puru Mair,9.1,Boston University - Industrial Engineering,0,0.0,0,163,149,4.0,312,27,25,28,20,100,admit
+Nadeem Khan,7.81,Boston University - Computer Science,32,2.8,0,159,148,4.0,307,27,27,27,27,108,admit
+Sweta Subhra Datta,8.63,Boston University - Computer Science,24,2.0,0,156,155,3.5,311,27,26,26,28,107,admit
+Aditya Sakare,7.0,Boston University - Computer Science,8,0.8,0,165,165,5.0,330,25,25,25,25,100,admit
+Shahzeb Ali,8.08,Boston University - Data Science,1,0.1,1,157,138,3.0,295,25,24,26,25,100,admit
+Anik Shair,8.6,Boston University - Computer Science,3,0.3,0,168,150,5.0,318,28,30,28,28,114,admit
+Atharva Pradhan,9.43,Georgia Institute of Technology - Robotics,0,0.0,0,167,144,3.5,311,26,29,25,27,107,reject
+Venkata Abhinav Dusi,8.82,Georgia Institute of Technology - Electrical and Computer Engineering,0,0.0,0,159,147,4.0,306,23,25,21,23,92,reject
+Tanmay Kapoor,9.33,Georgia Institute of Technology - Computer Science,4,0.4,0,167,157,5.0,324,29,29,29,27,114,reject
+Sahil Singh,7.67,Georgia Institute of Technology - Electrical and Computer Engineering,18,1.6,1,167,147,3.0,314,24,29,22,23,98,reject
+Harsh Agrawal,8.91,Georgia Institute of Technology - Computer Science,2,0.2,3,163,155,4.0,318,28,30,27,30,115,reject
+Apratim Shukla,9.19,Georgia Institute of Technology - Computer Science,20,1.8,3,165,155,4.5,320,28,27,28,30,113,reject
+Abrar Mohammed,9.15,Georgia Institute of Technology - Computer Science,8,0.8,3,164,149,4.0,313,23,29,21,28,101,admit
+Ashutosh Mangle,8.78,Georgia Institute of Technology - Building Construction and Facility Management,27,2.3,0,160,150,4.0,310,24,27,29,28,108,admit
+Manas Vyas,8.85,Georgia Institute of Technology - Mechanical Engineering,3,0.3,1,164,155,4.0,319,24,27,29,29,109,reject
+Ishan Patel,8.5,Georgia Institute of Technology - Electrical and Computer Engineering,1,0.1,3,162,147,3.5,309,24,22,26,24,96,reject
+Sagnik Ghosal,9.1,Georgia Institute of Technology - Data Analytics,6,0.6,3,169,154,5.0,323,27,30,27,29,113,reject
+Sayantan Pal,8.73,Georgia Institute of Technology - Computer Science,42,3.6,0,162,165,3.5,327,27,28,28,30,113,reject
+Navya Singla,9.37,Georgia Institute of Technology - Computer and Electrical Engineering,20,1.8,0,168,152,3.5,320,24,30,23,26,103,reject
+Aravind P V,8.26,Georgia Institute of Technology - Computer Science,0,0.0,2,161,153,4.0,314,25,30,26,28,109,reject
+Sunand Agarwal,8.48,Georgia Institute of Technology - Computer Science,24,2.0,0,170,160,4.5,330,25,29,27,30,111,reject
+Rishabh Singh,8.23,Georgia Institute of Technology - Robotics,13,1.1,1,162,146,3.5,308,25,24,20,23,92,reject
+Arpit Patil,9.74,Georgia Institute of Technology - Computer Science,6,0.6,2,167,147,4.0,314,23,27,26,29,105,reject
+Pranav P,9.61,Georgia Institute of Technology - Biomedical Engineering,18,1.6,3,168,161,4.5,329,25,30,29,28,112,admit
+Hardik S Jain,9.43,Georgia Institute of Technology - Data Analytics,18,1.6,1,168,155,4.0,323,25,29,28,30,112,admit
+Jainam Gandhi,7.65,Georgia Institute of Technology - Quantitative and Computational Finance,16,1.4,0,163,151,4.0,314,24,28,24,28,104,reject
+Siddhartha Raj,8.58,Georgia Institute of Technology - Industrial Engineering,36,3.0,0,170,158,3.5,328,27,27,29,30,113,reject
+Prabin Rath,8.91,Georgia Institute of Technology - Robotics,24,2.0,6,167,160,3.5,327,25,29,26,24,104,reject
+Chetan Kumar,8.0,Georgia Institute of Technology - Mechanical Engineering,0,0.0,0,164,164,2.5,328,23,30,21,27,101,reject
+Ratan Singh,9.42,Georgia Institute of Technology - Computer and Electrical Engineering,37,3.1,8,168,152,4.0,320,25,25,25,25,100,admit
+Sushanth Manivannan,9.06,Georgia Institute of Technology - Electrical and Computer Engineering,1,0.1,0,165,158,4.0,323,29,25,27,30,111,reject
+Pradeepti Singh,8.41,Georgia Institute of Technology - Supply Chain Management,24,2.0,0,168,155,4.0,323,26,27,25,22,100,admit
+Ahindrila Saha,8.85,Georgia Institute of Technology - Applied Business Analytics,3,0.3,0,166,156,4.0,322,28,29,27,29,113,admit
+Saharsh Aggarwal,8.21,Georgia Institute of Technology - Electrical Engineering,7,0.7,1,170,161,4.5,331,29,30,27,30,116,admit
+Muthiah Muralidharan Saravanan,8.44,Georgia Institute of Technology - Mechanical Engineering - Automation and Robotic Systems,0,0.0,0,160,152,4.5,312,25,24,27,25,101,reject
+Rakshit Shetty,9.3,Georgia Institute of Technology - Computer Science,18,1.6,0,160,152,3.5,312,26,26,27,29,108,reject
+A,8.76,Georgia Institute of Technology - Computer Science,38,3.2,1,166,162,4.0,328,27,29,28,30,114,reject
+Prerit Jain,9.22,Georgia Institute of Technology - Data Science and Analytics,36,3.0,0,168,160,4.0,328,24,28,23,27,102,reject
+Dimitri Adhikary,8.93,Georgia Institute of Technology - Business Analytics,36,3.0,2,169,157,4.0,326,30,30,29,27,116,admit
+Sittun Prakash,8.3,Georgia Institute of Technology - Data Analytics,20,1.8,0,167,164,5.0,331,30,30,30,30,120,admit
+Muhammad Usman Hamid,9.31,Georgia Institute of Technology - Business Analytics,48,4.0,1,157,151,3.5,308,30,29,29,29,117,reject
+Baasit Sharief,7.65,Georgia Institute of Technology - Data Analytics,12,1.0,1,168,156,4.0,324,23,28,27,28,106,reject
+Syed Angkan Haider,9.1,Georgia Institute of Technology - Mechanical Engineering,7,0.7,4,166,152,5.0,318,29,24,30,30,113,admit
+Gaurav Patel,8.91,Georgia Institute of Technology - Electrical Engineering,0,0.0,1,161,151,3.0,312,23,25,24,26,98,reject
+Sudhir Garg,9.2,Georgia Institute of Technology - Computer Science,0,0.0,0,164,154,3.0,318,22,30,23,29,104,reject
+Rohit Kumar Putcha,9.12,Georgia Institute of Technology - Computer Science,32,2.8,0,169,151,3.5,320,27,26,25,26,104,reject
+Sahana Joshi,9.26,Georgia Institute of Technology - Electrical Engineering,24,2.0,1,168,160,4.5,328,27,28,29,29,113,admit
+Abhinav Singh,8.27,Georgia Institute of Technology - Business Analytics,33,2.9,0,170,157,3.0,327,25,28,24,30,107,reject
+Venkataramanan Natarajan,8.2,Georgia Institute of Technology - Mechanical Engineering,1,0.1,1,160,144,3.5,304,25,25,26,26,102,admit
+Dileep Kumar Pothala,7.81,New Jersey Institute of Technology - Data Science,5,0.5,0,168,146,2.0,314,21,23,21,18,83,admit
+Chetan Sahrudhai Kimidi,9.36,New Jersey Institute of Technology - Computer Science,3,0.3,0,165,150,4.0,315,25,28,27,29,109,admit
+Pratyush Sahu,8.05,"New Jersey Institute of Technology - Advanced Computing (Machine Learning, Data Mining and High Performance Computing)",34,2.1,1,160,140,3.0,300,24,25,28,21,98,admit
+Meet Doshi,7.79,New Jersey Institute of Technology - Information Systems (MIS),0,0.0,3,158,140,3.5,298,17,19,21,16,73,admit
+Atharva Parte,7.96,New Jersey Institute of Technology - Computer Science,6,0.6,0,160,143,3.5,303,23,27,24,25,99,admit
+Ruthwik B G,8.63,New Jersey Institute of Technology - Computer Science,6,0.6,2,164,154,3.0,318,22,25,24,30,101,admit
+Shrey Modi,8.5,New Jersey Institute of Technology - Computer Science,15,1.3,3,159,145,3.5,304,27,26,27,26,106,admit
+Dhruv Rao,7.97,New Jersey Institute of Technology - Computer Science,3,0.3,1,157,141,3.0,298,23,16,20,20,79,admit
+Aniket Jadhav,7.03,New Jersey Institute of Technology - Computer Science,19,1.7,0,141,140,2.5,281,22,15,13,18,68,reject
+Saee Petkar,8.65,"New Jersey Institute of Technology - Technology, Cybersecurity and Policy",44,3.8,1,162,145,3.5,307,24,25,23,19,91,admit
+Harsh Agrawal,8.91,New Jersey Institute of Technology - Computer Science,2,0.2,3,163,155,4.0,318,28,30,27,30,115,admit
+Palak Keni,8.6,New Jersey Institute of Technology - Computer Science,18,1.6,1,163,150,3.5,313,24,26,27,23,100,admit
+Anshika Jain,8.7,New Jersey Institute of Technology - Pharmaceutical Chemistry,9,0.9,0,154,148,3.5,302,29,29,29,28,115,admit
+Parth Gulavani,7.82,New Jersey Institute of Technology - Information Systems (MIS),5,0.5,0,161,151,4.0,312,26,27,27,26,106,admit
+Suraj Ruparel,6.73,New Jersey Institute of Technology - Electrical Engineering,6,0.6,0,164,154,4.0,318,23,25,28,29,105,admit
+Manikanta Sai Yarlagadda,8.06,New Jersey Institute of Technology - Data Science,40,3.4,1,162,152,2.5,314,22,29,23,26,100,admit
+Jyothirmai Kottu,7.79,New Jersey Institute of Technology - Computer Science,14,1.2,3,155,139,3.5,294,27,22,24,19,92,admit
+Meghana Nagesha,9.2,New Jersey Institute of Technology - Electrical Engineering,17,1.5,2,161,156,3.5,317,29,30,25,23,107,admit
+Kranthi Vanukuru,6.28,New Jersey Institute of Technology - Data Science,0,0.0,6,168,161,3.5,329,20,29,30,26,105,admit
+Aabhijatya Somvanshi,7.65,New Jersey Institute of Technology - Data Science,7,0.7,1,153,145,3.5,298,28,22,25,23,98,admit
+Nilesh Dusane,6.33,New Jersey Institute of Technology - Computer Science,6,0.6,0,158,154,0.0,312,25,29,0,28,82,reject
+Yuto Suzuki,7.32,New Jersey Institute of Technology - Computer Science,36,3.0,0,170,152,4.0,322,21,28,25,23,97,admit
+Seema P L,6.77,New Jersey Institute of Technology - Electrical Engineering,0,0.0,0,153,140,3.0,293,21,23,18,21,83,admit
+Kunal Rana,7.02,New Jersey Institute of Technology - Industrial Engineering,0,0.0,1,154,144,3.0,298,23,25,26,24,98,admit
+Ankit Darekar,6.37,New Jersey Institute of Technology - Computer Science,30,2.6,0,156,147,4.0,303,24,21,25,27,97,admit
+Pradyumna Ghosh,7.89,New Jersey Institute of Technology - Industrial Engineering,36,3.0,0,157,145,3.0,302,18,22,20,19,79,admit
+Arpit Bhushan Sharma,8.19,New Jersey Institute of Technology - Data Science,6,0.6,5,150,140,3.0,290,2,17,22,15,56,admit
+Tanush Tripathi,8.21,New Jersey Institute of Technology - Computer Science,24,2.0,1,160,146,4.0,306,22,25,24,23,94,admit
+Shreya Maqtedar,7.18,New Jersey Institute of Technology - Computer Science,3,0.3,0,154,147,3.0,301,23,26,25,26,100,admit
+Naveen Senthil Kumar,9.1,New Jersey Institute of Technology - Data Science,3,0.3,1,161,142,3.5,303,24,22,26,21,93,admit
+Neil Tuscano,5.6,New Jersey Institute of Technology - Information Systems (MIS),0,0.0,0,153,138,3.5,291,24,23,21,24,92,reject
+Ssanidhya Barraptay,7.8,New Jersey Institute of Technology - Data Science,0,0.0,1,150,150,4.0,300,25,24,24,19,92,reject
+Vidhya Suresh,9.37,New Jersey Institute of Technology - Computer Science,0,0.0,1,160,149,3.0,309,26,22,25,27,100,admit
+Atharva Adbe,8.9,New Jersey Institute of Technology - Data Science,2,0.2,0,161,149,3.5,310,25,21,22,20,88,admit
+Srikrishna Karnati,7.26,New Jersey Institute of Technology - Computer Science,0,0.0,0,162,134,3.0,296,22,24,22,17,85,admit
+Anirud Rao,6.33,New Jersey Institute of Technology - Construction Management,2,0.2,0,164,152,3.0,316,24,30,27,29,110,admit
+Abhishek Gawali,8.14,University of North Carolina - Charlotte - Computer Science,22,1.1,2,154,148,3.0,302,23,27,21,27,98,admit
+Ritesh Choudhary,8.1,University of North Carolina - Charlotte - Computer Science,7,0.7,4,154,146,4.0,300,27,20,22,22,91,admit
+Pritesh Ambavane,8.14,University of North Carolina - Charlotte - Computer Science,28,2.4,1,153,142,3.0,295,25,25,26,21,97,admit
+Kamran Adil,7.2,University of North Carolina - Charlotte - Computer Science,62,5.2,0,150,144,3.5,294,28,28,22,28,106,reject
+Abhay P,7.98,University of North Carolina - Charlotte - Computer Science,6,0.6,14,159,138,3.0,297,24,23,21,24,92,reject
+Bala Nagendra Cherukuri,8.12,University of North Carolina - Charlotte - Construction Management - Facility Management,0,0.0,0,166,153,3.0,319,12,28,25,30,95,admit
+Abhishek Keripale,7.49,University of North Carolina - Charlotte - Mechanical Engineering,2,0.2,1,155,147,3.0,302,22,25,28,21,96,admit
+Divya Pant,7.57,University of North Carolina - Charlotte - Applied Physics,0,0.0,0,156,151,4.0,307,23,23,29,24,99,admit
+Fnu Shivalika,6.4,University of North Carolina - Charlotte - Healthcare Administration,19,1.7,0,154,147,3.5,301,29,27,26,28,110,admit
+Meghana Nagesha,9.2,University of North Carolina - Charlotte - Electrical Engineering - Embedded Real - Time Systems,17,1.5,2,161,156,3.5,317,29,30,25,23,107,admit
+Vasu Tiwari,7.72,University of North Carolina - Charlotte - Computer Science,30,2.6,0,162,143,3.0,305,24,26,24,19,93,admit
+Himani Mishra,8.73,University of North Carolina - Charlotte - Computer Science,4,0.4,0,156,152,4.0,308,25,27,27,24,103,admit
+Chaitanya Takalikar,6.11,University of North Carolina - Charlotte - Computer Science,25,2.1,0,157,142,3.0,299,19,21,21,22,83,reject
+Ajay Babu Gorantla,7.27,University of North Carolina - Charlotte - Computer Science,8,0.8,0,159,153,4.0,312,18,23,24,23,88,admit
+Baasit Sharief,7.65,University of North Carolina - Charlotte - Computer Science,12,1.0,1,168,156,4.0,324,23,28,27,28,106,reject
+Malavika Krishnan,7.42,University of North Carolina - Charlotte - Computer Science,28,2.4,0,155,153,3.5,308,26,26,26,24,102,admit
+Archit Vats,8.3,University of North Carolina - Charlotte - Cyber Security,1,0.1,0,159,151,4.0,310,23,28,26,26,103,admit
+Jitin Mannar,6.84,University of North Carolina - Charlotte - Emergency Management,46,3.1,0,156,141,3.5,297,25,28,26,18,97,admit
+Anonymous Explorer,8.24,University of North Carolina - Charlotte - Computer Engineering,24,2.0,8,166,150,4.5,316,26,23,29,27,105,admit
+Vineeth Ananthula,7.19,University of North Carolina - Charlotte - Cyber Security,16,1.4,0,160,149,3.0,309,25,24,27,27,103,admit
+Varun Jain,7.29,University of North Carolina - Charlotte - Computer Science,24,2.0,0,157,149,3.5,306,20,20,22,26,88,admit
+Sanjana Chowdary,8.32,North Carolina State University - Raleigh - Computer Science,8,0.8,0,170,156,3.5,326,22,29,24,29,104,reject
+Vishal Kulkarni,9.03,North Carolina State University - Raleigh - Computer Science,34,2.1,0,165,150,4.0,315,26,27,28,25,106,admit
+Amartya Kalapahar,8.96,North Carolina State University - Raleigh - Computer Science,13,1.1,1,166,142,4.0,308,25,25,30,27,107,admit
+Tanmay Kapoor,9.33,North Carolina State University - Raleigh - Computer Science,4,0.4,0,167,157,5.0,324,29,29,29,27,114,admit
+Sharath Kamlekar,9.8,North Carolina State University - Raleigh - Computer Science,20,1.8,0,168,162,4.5,330,27,29,26,28,110,admit
+Sarthak Dalal,8.8,North Carolina State University - Raleigh - Computer Science,0,0.0,3,168,149,5.0,317,28,27,30,29,114,reject
+Vedant Gupta,7.09,North Carolina State University - Raleigh - Computer Science,41,3.5,0,159,156,4.0,315,23,29,30,28,110,reject
+Varun Agarwal,8.37,North Carolina State University - Raleigh - Computer Science,20,1.8,2,167,150,3.5,317,25,25,30,24,104,reject
+Kartik Soni,9.3,North Carolina State University - Raleigh - Computer Science,3,0.3,3,168,162,4.5,330,24,30,30,28,112,admit
+Mohit Vaidya,8.56,North Carolina State University - Raleigh - Computer Engineering,0,0.0,0,159,158,4.5,317,28,27,27,30,112,admit
+Deep Sakhiya,8.71,North Carolina State University - Raleigh - Computer Engineering,0,0.0,2,168,156,3.0,324,19,29,22,27,97,admit
+Sudesh Pawar,9.02,North Carolina State University - Raleigh - Computer Science,12,1.0,4,164,151,4.0,315,25,30,30,29,114,admit
+Justine George,7.53,North Carolina State University - Raleigh - Computer Science,28,2.4,0,170,163,4.5,333,26,30,30,30,116,reject
+Aditya Kumar,7.88,North Carolina State University - Raleigh - Electrical and Computer Engineering,6,0.6,6,160,146,3.5,306,21,28,30,26,105,admit
+Subhadip Ghosh,9.46,North Carolina State University - Raleigh - Electrical Engineering,0,0.0,2,167,147,3.5,314,23,25,23,25,96,admit
+Shreyas More,9.1,North Carolina State University - Raleigh - Computer Science,10,0.1,2,163,152,4.5,315,26,27,29,29,111,admit
+Apratim Shukla,9.19,North Carolina State University - Raleigh - Computer Science,20,1.8,3,165,155,4.5,320,28,27,28,30,113,admit
+Dharmik Naik,9.91,North Carolina State University - Raleigh - Computer Science,18,1.6,0,165,151,3.5,316,24,28,25,28,105,admit
+Sahil Singh,7.67,North Carolina State University - Raleigh - Electrical Engineering - Very Large Scale Integration Design,18,1.6,1,167,147,3.0,314,24,29,22,23,98,admit
+Ritwik Vaidya,9.33,North Carolina State University - Raleigh - Computer Science,5,0.5,1,168,153,4.0,321,25,29,25,27,106,admit
+Shaurya Rawat,8.81,North Carolina State University - Raleigh - Computer Science,3,0.3,2,168,158,5.0,326,22,28,30,30,110,admit
+Nishant Dave,9.52,North Carolina State University - Raleigh - Computer Science,4,0.4,3,168,150,4.0,318,26,27,30,29,112,admit
+Ankur Banerji,9.61,North Carolina State University - Raleigh - Computer Science,3,0.3,0,165,147,3.5,312,30,27,23,23,103,admit
+Kunal Shah,9.7,North Carolina State University - Raleigh - Computer Science,10,0.1,1,167,152,4.0,319,27,28,24,28,107,admit
+Sayantan Pal,8.73,North Carolina State University - Raleigh - Computer Science,42,3.6,0,162,165,3.5,327,27,28,28,30,113,reject
+Dasaradh Gutta,7.16,North Carolina State University - Raleigh - Computer Science,13,1.1,0,168,153,3.5,321,19,30,24,30,103,reject
+Navya Singla,9.37,North Carolina State University - Raleigh - Computer and Electrical Engineering,20,1.8,0,168,152,3.5,320,24,30,23,26,103,admit
+Nagaraju Machavarapu,7.6,North Carolina State University - Raleigh - Computer Science,30,2.6,0,169,153,4.0,322,23,28,26,29,106,reject
+Shantanu Lohar,9.29,North Carolina State University - Raleigh - Electrical and Computer Engineering,4,0.4,0,164,153,4.5,317,30,27,27,26,110,admit
+Megha Chandra,9.36,North Carolina State University - Raleigh - Electrical and Computer Engineering,0,0.0,4,166,155,3.5,321,22,30,28,30,110,admit
+Visaj Shah,8.09,North Carolina State University - Raleigh - Computer Science,0,0.0,2,170,158,5.0,328,27,29,30,30,116,reject
+Gangey Patel,9.16,North Carolina State University - Raleigh - Computer Science,5,0.5,0,166,149,3.5,315,23,26,25,28,102,admit
+Nikhil Panda,7.7,North Carolina State University - Raleigh - Computer Science,10,0.1,0,167,146,3.5,313,23,25,28,28,104,reject
+Harsh Waichal,7.9,North Carolina State University - Raleigh - Industrial Design,12,1.0,0,162,152,4.5,314,29,25,22,23,99,admit
+Chinmay Chavan,8.02,North Carolina State University - Raleigh - Mechanical Engineering,30,2.6,1,169,157,4.0,326,23,30,23,29,105,admit
+Sudarshan Mane,7.49,North Carolina State University - Raleigh - Civil Engineering,12,1.0,0,161,144,3.5,305,21,25,25,26,97,reject
+Ameya Tembhekar,7.08,North Carolina State University - Raleigh - Financial Mathematics,70,5.1,0,168,155,4.0,323,28,30,27,29,114,admit
+Utkarsh Patil,8.25,North Carolina State University - Raleigh - Industrial Engineering,30,2.6,0,168,155,4.0,323,23,30,24,30,107,admit
+Harish Balasubramaniam,8.1,North Carolina State University - Raleigh - Computer Science,5,0.5,2,165,153,4.0,318,26,30,28,28,112,reject
+Subhadeep Jana,9.07,North Carolina State University - Raleigh - Computer Science,0,0.0,1,164,156,4.0,320,29,30,28,29,116,admit
+Pranathi Kunadi,9.57,North Carolina State University - Raleigh - Computer Science,27,2.3,1,169,151,4.0,320,26,29,29,28,112,admit
+Pratik Kharade,8.65,North Carolina State University - Raleigh - Computer Science,36,3.0,0,170,154,4.0,324,26,28,28,30,112,reject
+Kriti Singh,8.36,North Carolina State University - Raleigh - Engineering Electrical and Computer,12,1.0,1,161,152,3.0,313,26,27,28,27,108,admit
+Dinesh Valasala,8.35,North Carolina State University - Raleigh - Computer Science,50,4.2,0,169,151,3.5,320,22,27,29,28,106,reject
+Siddhant Gupta,7.69,North Carolina State University - Raleigh - Data Science - Computer Science,24,2.0,0,170,153,3.0,323,25,30,26,29,110,admit
+Sai Pradeep Mohan Krishna Vetapalem,8.34,North Carolina State University - Raleigh - Computer Engineering,34,2.1,0,166,155,3.0,321,21,29,20,30,100,admit
+Akash Phadatare,7.91,North Carolina State University - Raleigh - Forestry,15,1.3,1,161,148,2.5,309,21,25,22,27,95,admit
+Akhil Mehta,8.86,North Carolina State University - Raleigh - Electrical and Computer Engineering,28,2.4,0,161,153,4.0,314,24,23,17,23,87,admit
+Shivam Pednekar,9.09,North Carolina State University - Raleigh - Computer Science,0,0.0,1,160,149,4.0,309,23,25,25,22,95,admit
+Vardhani K,8.7,North Carolina State University - Raleigh - Computer Science,0,0.0,0,170,152,2.0,322,25,22,22,22,91,admit
+Suleman Ahmad,7.81,North Carolina State University - Raleigh - Data Analytics,42,3.6,0,161,157,3.5,318,28,24,29,24,105,reject
+Fenny Zalavadia,9.49,North Carolina State University - Raleigh - Computer Science,12,1.0,2,165,141,3.5,306,26,23,28,22,99,admit
+Renji Joseph Sabu,6.88,North Carolina State University - Raleigh - Computer Science,30,2.6,0,168,154,4.0,322,27,29,27,28,111,admit
+Parth S,8.74,North Carolina State University - Raleigh - Computer Science,25,2.1,1,170,151,3.0,321,21,23,27,27,98,admit
+Shashank R,9.2,North Carolina State University - Raleigh - Computer Science,0,0.0,1,165,156,3.5,321,25,29,30,29,113,reject
+Ritika Tilwalia,8.5,North Carolina State University - Raleigh - Computer Science,1,0.1,2,161,148,3.5,309,26,28,25,26,105,admit
+Eshan Mehrotra,8.6,North Carolina State University - Raleigh - Data Analytics,18,1.6,0,164,155,4.0,319,24,30,29,30,113,reject
+Tanay Dhaka,6.77,North Carolina State University - Raleigh - Data Analytics,26,2.2,0,169,153,3.0,322,28,20,24,26,98,reject
+Sadjyot Gangolli,9.49,North Carolina State University - Raleigh - Computer Engineering,6,0.6,2,165,150,4.0,315,25,24,21,25,95,admit
+Shubham Nema,7.78,North Carolina State University - Raleigh - Computer Engineering,42,3.6,1,167,144,3.5,311,22,26,27,26,101,admit
+Amey Dashaputre,8.08,North Carolina State University - Raleigh - Computer Engineering,40,3.4,1,154,148,3.0,302,23,24,25,22,94,admit
+Gaurav Sawant,8.84,North Carolina State University - Raleigh - Computer Science,15,1.3,0,169,150,4.5,319,30,27,28,24,109,admit
+Gaurav Patel,8.91,North Carolina State University - Raleigh - Electrical Engineering,0,0.0,1,161,151,3.0,312,23,25,24,26,98,admit
+Amaan Bandukwala,8.0,North Carolina State University - Raleigh - Industrial Engineering,12,1.0,1,165,155,4.0,320,25,30,25,25,105,admit
+Kartik Hira,6.3,North Carolina State University - Raleigh - Computer Engineering,22,1.1,0,165,157,3.5,322,24,29,25,27,105,admit
+Shrinivas Katkam,8.34,North Carolina State University - Raleigh - Chemical Engineering,0,0.0,0,161,153,3.5,314,26,28,25,24,103,admit
+Jai Iyer,9.37,North Carolina State University - Raleigh - Computer Engineering,6,0.6,1,162,139,3.0,301,25,25,25,25,100,admit
+Poojan Thakkar,8.7,North Carolina State University - Raleigh - Computer Science,4,0.4,1,162,157,4.5,319,28,30,27,28,113,reject
+Nirav Patel,7.8,North Carolina State University - Raleigh - Computer Science,18,1.6,0,164,147,3.5,311,22,28,25,25,100,admit
+Atharva Pradhan,9.43,New York University - Robotics,0,0.0,0,167,144,3.5,311,26,29,25,27,107,admit
+Chinmay Prashanth,8.0,New York University - Mechatronic and Robotic Engineeering,0,0.0,0,165,148,3.5,313,23,28,28,26,105,admit
+Dharmik Naik,9.91,New York University - Computer Science,18,1.6,0,165,151,3.5,316,24,28,25,28,105,admit
+Aaron Stone,8.74,New York University - Computer Engineering,3,0.3,3,159,157,4.0,316,26,27,26,30,109,admit
+Aditya Jadhav,8.2,New York University - Computer Engineering,42,3.6,0,159,144,3.5,303,26,24,28,26,104,admit
+Subham Kumar,8.51,New York University - Computer Science,60,5.0,0,163,152,3.5,315,24,26,24,26,100,reject
+Harsh Naik,7.7,New York University - Computer Engineering,8,0.8,0,163,153,3.0,316,19,28,30,27,104,admit
+Suraj Nair,8.48,New York University - Mechatronic and Robotic Engineeering,4,0.4,0,161,166,3.5,327,28,30,28,25,111,admit
+Shubhankar Hingne,9.74,New York University - Computer Engineering,0,0.0,1,162,152,4.0,314,22,27,27,28,104,admit
+Bharat S,9.6,New York University - Mechanical Engineering,4,0.4,1,151,161,4.0,312,30,26,30,26,112,admit
+Sriraksha G,9.64,New York University - Data Science,0,0.0,1,168,153,3.0,321,26,28,27,29,110,admit
+Ashutosh Mangle,8.78,New York University - Construction Technology,27,2.3,0,160,150,4.0,310,24,27,29,28,108,admit
+Deep Sakhiya,8.71,New York University - Computer Engineering,0,0.0,2,168,156,3.0,324,19,29,22,27,97,admit
+Paurush Batish,8.44,New York University - Computer Science,11,0.11,0,163,155,4.5,318,27,27,25,25,104,reject
+Kushan Dixit,7.62,New York University - Transportation Engineering,36,3.0,0,159,157,4.0,316,22,24,24,28,98,admit
+Pranav Sharma,9.4,"New York University - Robotics, Mechatronics and Control Engineering",0,0.0,6,160,153,3.5,313,22,30,27,25,104,admit
+Lakshit Pant,9.03,New York University - Computer Engineering,2,0.2,0,164,156,5.0,320,28,29,30,28,115,admit
+Sandip Sharan,8.56,New York University - Mechatronic and Robotic Engineeering,0,0.0,0,162,143,3.5,305,24,27,27,29,107,admit
+Sagnik Ghosal,9.1,New York University - Data Science,6,0.6,3,169,154,5.0,323,27,30,27,29,113,reject
+Sayantan Pal,8.73,New York University - Computer Science,42,3.6,0,162,165,3.5,327,27,28,28,30,113,reject
+Nagaraju Machavarapu,7.6,New York University - Computer Science,30,2.6,0,169,153,4.0,322,23,28,26,29,106,reject
+Shrey Modi,8.5,New York University - Computer Science,15,1.3,3,159,145,3.5,304,27,26,27,26,106,reject
+Rammanoj Potla,9.38,New York University - Computer Science,20,1.8,1,164,143,3.5,307,27,26,25,26,104,reject
+Vinayak S,8.55,New York University - Computer Science,3,0.3,0,164,148,4.0,312,25,24,22,24,95,admit
+Anushka Bajpai,8.2,New York University - Computer Science,50,4.2,0,160,155,4.0,315,23,30,26,26,105,reject
+Tulaja Chada,7.67,New York University - Industrial Engineering,6,0.6,1,164,148,4.0,312,26,30,25,24,105,admit
+Dhrumil Shah,8.9,New York University - Computer Science,6,0.6,0,168,151,3.5,319,25,26,26,25,102,reject
+Faizan Shaikh,8.35,New York University - Computer Science,3,0.3,0,161,158,4.0,319,25,26,25,26,102,reject
+Harsh Agrawal,8.91,New York University - Computer Science,2,0.2,3,163,155,4.0,318,28,30,27,30,115,reject
+Poojan Panchal,9.7,New York University - Computer Science,21,1.9,3,168,145,3.0,313,24,30,20,23,97,reject
+Tanmay Jain,8.9,New York University - Computer Science,0,0.0,0,163,148,3.5,311,23,26,24,20,93,reject
+Pranav Kapoor,8.81,New York University - Computer Science,12,1.0,3,161,152,4.0,313,24,26,24,25,99,reject
+Harshawardhan Kumar Unsasi,8.88,New York University - Mechatronic and Robotic Engineeering,3,0.3,2,168,149,3.5,317,28,23,23,27,101,admit
+Venkata Abhinav Dusi,8.82,New York University - Mechatronic and Robotic Engineeering,0,0.0,0,159,147,4.0,306,23,25,21,23,92,admit
+Hardik S Jain,9.43,New York University - Data Science,18,1.6,1,168,155,4.0,323,25,29,28,30,112,admit
+Harish Balasubramaniam,8.1,New York University - Computer Science,5,0.5,2,165,153,4.0,318,26,30,28,28,112,reject
+Prerana Deshpande,9.57,New York University - Management of Technology,0,0.0,0,163,154,4.0,317,26,24,27,27,104,admit
+Suraj Patil,9.13,New York University - Management of Technology,0,0.0,0,164,145,3.0,309,24,26,23,27,100,admit
+Swaraj Mohapatra,7.95,New York University - Management of Technology,6,0.6,0,165,149,2.5,314,25,30,23,27,105,admit
+Subhash Y,7.75,New York University - Civil Engineering (MSc),0,0.0,0,155,146,3.5,301,23,18,22,22,85,admit
+Shabir Ahmad,9.19,New York University - Structural Engineering,2,0.2,0,158,145,4.5,303,25,23,26,20,94,admit
+Ishan Patel,8.5,New York University - Electrical Engineering,1,0.1,3,162,147,3.5,309,24,22,26,24,96,reject
+Chetan Kumar,8.0,New York University - Robotics and Mechatronics Engineering,0,0.0,0,164,164,2.5,328,23,30,21,27,101,admit
+Tanay Shah,9.22,New York University - Data Science,6,0.6,1,170,153,4.0,323,26,29,26,29,110,reject
+Somik Dhar,8.52,New York University - Electrical Engineering,11,0.11,0,167,147,4.0,314,23,29,27,29,108,admit
+Ps Akash,7.8,New York University - Cybersecurity Engineering,6,0.6,0,169,156,4.0,325,26,28,27,23,104,admit
+Sharath Kamlekar,9.8,New York University - Computer Science,20,1.8,0,168,162,4.5,330,27,29,26,28,110,reject
+Romit Ganjoo,9.33,New York University - Computer Engineering,12,1.0,3,166,154,4.0,320,28,24,24,28,104,admit
+Sanskriti Sinha,8.71,New York University - Computer Science,2,0.2,0,163,148,3.5,311,23,29,26,24,102,reject
+Akshat Shah,8.23,New York University - Computer Engineering - Cyber Security,5,0.5,0,170,154,4.0,324,23,27,24,20,94,admit
+Jagannath Jayanti,8.4,New York University - Computer Science,0,0.0,3,170,162,4.5,332,29,28,29,29,115,reject
+Gaurav Chattree,8.6,New York University - Computer Science,36,3.0,1,167,155,3.0,322,25,29,22,28,104,reject
+Mehuli Sadhu,7.3,New York University - Biotechnology and Entrepreneurship,2,0.2,0,161,148,4.5,309,25,30,29,30,114,admit
+Aditya Malik,6.6,New York University - Computer Science,24,2.0,1,161,152,4.0,313,24,27,22,28,101,reject
+Kunal Rana,7.02,New York University - Industrial Engineering,0,0.0,1,154,144,3.0,298,23,25,26,24,98,reject
+Prateek Dagariya,7.28,New York University - Computer Engineering,56,4.8,0,167,152,3.0,319,23,27,23,23,96,admit
+Prishita Kadam,9.22,New York University - Computer Engineering,0,0.0,0,159,147,3.5,306,22,26,22,26,96,admit
+Rakshit Shetty,9.3,New York University - Computer Science,18,1.6,0,160,152,3.5,312,26,26,27,29,108,reject
+Yuri Onice,8.5,New York University - Computer Science,48,4.0,0,167,159,4.0,326,22,28,27,30,107,reject
+Leela Krishna Radarapu,7.18,New York University - Civil Engineering,16,1.4,0,169,145,2.5,314,22,25,25,28,100,admit
+Sourabh Bhattacharjee,7.93,New York University - Computer Science,48,4.0,0,166,161,3.5,327,30,29,28,29,116,admit
+Harshwardhan Singh,8.85,New York University - Computer Engineering,0,0.0,0,165,156,4.0,321,27,25,29,25,106,admit
+Adikavya Gupta,7.7,New York University - Computer Engineering,0,0.0,0,159,151,4.0,310,30,27,28,24,109,reject
+Tanush Tripathi,8.21,New York University - Computer Engineering,24,2.0,1,160,146,4.0,306,22,25,24,23,94,admit
+Namrata Ruchandani,7.42,New York University - Computer Engineering,0,0.0,0,165,143,3.5,308,24,24,25,28,101,admit
+Tanush Tripathi,8.21,New York University - Computer Science,24,2.0,1,160,146,4.0,306,22,25,24,23,94,reject
+Sowmith Saridena,8.01,New York University - Computer Engineering,20,1.8,0,170,150,3.0,320,23,27,22,24,96,admit
+Yashita Mehta,7.45,New York University - Industrial Engineering,10,0.1,3,163,152,3.0,315,27,28,24,25,104,admit
+Devansh Modi,7.54,New York University - Industrial Engineering,3,0.3,0,159,150,4.0,309,30,24,27,23,104,admit
+Shailee Maheshwari,6.32,New York University - Economics,32,2.8,0,165,147,3.5,312,26,26,25,22,99,reject
+Dinesh B,7.38,New York University - Engineering Management,6,0.6,1,154,140,3.0,294,19,23,28,20,90,admit
+Prithvi Dev K V,7.97,New York University - Mechatronics,6,0.6,0,159,150,3.5,309,23,29,23,29,104,admit
+Karnati Busi Reddy,9.21,New York University - Computer Science,0,0.0,0,169,156,3.5,325,22,30,17,29,98,admit
+Rohan Kumar,8.5,New York University - Industrial Engineering,1,0.1,0,163,148,3.5,311,27,27,28,23,105,admit
+Tanay Kumar,7.26,New York University - Information Systems (MIS),12,1.0,0,161,156,3.5,317,29,25,25,28,107,admit
+Puru Mair,9.1,New York University - Industrial Engineering,0,0.0,0,163,149,4.0,312,27,25,28,20,100,admit
+Anik Shair,8.6,New York University - Computer Science,3,0.3,0,168,150,5.0,318,28,30,28,28,114,admit
+Anish Goel,8.09,Purdue University - West Lafayette - Business Analytics - MS,41,3.5,0,163,153,4.0,316,22,30,25,28,105,reject
+Monish Yadav Pabbala,6.55,Purdue University - West Lafayette - Mechanical Engineering,0,0.0,2,165,158,3.0,323,22,29,27,30,108,reject
+Sahil Singh,7.67,Purdue University - West Lafayette - Electrical and Computer Engineering,18,1.6,1,167,147,3.0,314,24,29,22,23,98,reject
+Swaraj Mohapatra,7.95,Purdue University - West Lafayette - Engineering Management,6,0.6,0,165,149,2.5,314,25,30,23,27,105,reject
+Surjava Sanyal,9.11,Purdue University - West Lafayette - Electrical and Computer Engineering,17,1.5,0,170,155,4.5,325,28,28,29,29,114,admit
+Bharat S,9.6,Purdue University - West Lafayette - Mechanical Engineering,4,0.4,1,151,161,4.0,312,30,26,30,26,112,reject
+Sree Charan Raj Duvva,9.06,Purdue University - West Lafayette - Industrial Engineering,4,0.4,0,167,151,4.5,318,27,24,28,28,107,admit
+Ashutosh Mangle,8.78,Purdue University - West Lafayette - Civil Engineering - Construction Engineering and Management,27,2.3,0,160,150,4.0,310,24,27,29,28,108,admit
+Ashutosh Mangle,8.78,Purdue University - West Lafayette - Construction Technology,27,2.3,0,160,150,4.0,310,24,27,29,28,108,admit
+Pritam Ghoshal,9.05,Purdue University - West Lafayette - Mechanical Engineering,0,0.0,2,167,158,4.5,325,25,27,30,29,111,admit
+Pranav Kapoor,8.81,Purdue University - West Lafayette - Computer Science,12,1.0,3,161,152,4.0,313,24,26,24,25,99,reject
+Mihir Ahlawat,8.22,Purdue University - West Lafayette - Statistics,24,2.0,1,169,152,4.5,321,26,30,25,27,108,admit
+Siddharth Mohapatra,9.43,Purdue University - West Lafayette - Biochemical Engineering,5,0.5,0,169,159,4.0,328,30,29,29,27,115,admit
+Navya Singla,9.37,Purdue University - West Lafayette - Computer and Electrical Engineering,20,1.8,0,168,152,3.5,320,24,30,23,26,103,admit
+Shaurya Gomber,9.66,Purdue University - West Lafayette - Computer Science,18,1.6,0,169,157,4.0,326,28,30,27,30,115,admit
+Swapnil Umap,6.26,Purdue University - West Lafayette - Construction Management,52,4.4,0,160,152,4.0,312,25,29,27,29,110,admit
+Utkarsh Patil,8.25,Purdue University - West Lafayette - Industrial Engineering,30,2.6,0,168,155,4.0,323,23,30,24,30,107,admit
+Manjesh M Gowda,8.26,Purdue University - West Lafayette - Civil Engineering - Construction Engineering and Management,0,0.0,0,153,142,3.0,295,25,29,23,21,98,reject
+Shubham Soni,7.77,Purdue University - West Lafayette - Aerospace Engineering,2,0.2,1,157,147,3.0,304,21,23,22,23,89,reject
+Venkatesh Madasu,7.07,Purdue University - West Lafayette - Computer Science,84,7.0,2,161,146,3.0,307,23,28,24,28,103,reject
+Abdul Samadh,8.57,Purdue University - West Lafayette - Computer Science,29,2.5,3,169,154,4.0,323,30,30,29,30,119,reject
+Akshay Krishna,7.7,Purdue University - West Lafayette - Electrical and Computer Engineering,0,0.0,7,168,157,4.5,325,24,29,23,24,100,admit
+Ravichandra Basireddy,9.95,Purdue University - West Lafayette - Computer Science,16,1.4,0,162,142,3.0,304,20,24,23,28,95,reject
+Saharsh Aggarwal,8.21,Purdue University - West Lafayette - Electrical and Computer Engineering,7,0.7,1,170,161,4.5,331,29,30,27,30,116,reject
+Mehuli Sadhu,7.3,Purdue University - West Lafayette - Biomedical Engineering,2,0.2,0,161,148,4.5,309,25,30,29,30,114,admit
+Ram Prabu G,8.32,Purdue University - West Lafayette - Electrical and Computer Engineering,60,5.0,2,167,150,3.5,317,23,29,27,28,107,admit
+Bhupathi Ashrith,7.98,Purdue University - West Lafayette - Engineering Management,15,1.3,0,170,166,4.0,336,22,28,27,28,105,admit
+Muthiah Muralidharan Saravanan,8.44,Purdue University - West Lafayette - Mechanical Engineering - Automation and Robotic Systems,0,0.0,0,160,152,4.5,312,25,24,27,25,101,admit
+Pavan Meesa,8.32,Purdue University - West Lafayette - Construction Project Management,6,0.6,0,165,151,4.0,316,19,25,26,26,96,admit
+Vedant Joshi,8.68,Purdue University - West Lafayette - Mechanical Engineering,5,0.5,2,160,155,4.5,315,29,26,27,24,106,admit
+Prishita Kadam,9.22,Purdue University - West Lafayette - Computer Science,0,0.0,0,159,147,3.5,306,22,26,22,26,96,admit
+Nikhil Madaan,9.63,Purdue University - West Lafayette - Computer Science,18,1.6,1,170,162,4.0,332,28,29,29,29,115,admit
+Muhammad Usman Hamid,9.31,Purdue University - West Lafayette - Business Analytics,48,4.0,1,157,151,3.5,308,30,29,29,29,117,reject
+Yagnik Banerjee,8.58,Purdue University - West Lafayette - Aerospace Engineering,1,0.1,0,162,145,3.5,307,28,28,28,25,109,reject
+Akash Roy,9.51,Purdue University - West Lafayette - Electrical Engineering,18,1.6,3,170,150,5.0,320,29,29,10,27,95,admit
+Divya Gogia,8.4,Purdue University - West Lafayette - Business Analytics,60,5.0,0,155,151,3.5,306,23,28,29,23,103,reject
+Yashita Mehta,7.45,Purdue University - West Lafayette - Engineering Management,10,0.1,3,163,152,3.0,315,27,28,24,25,104,admit
+Vishal Juvekar,8.82,Purdue University - West Lafayette - Construction Management,5,0.5,0,154,142,3.0,296,25,24,23,23,95,admit
+Vedaant Rajoo,8.12,Purdue University - West Lafayette - Computer Science,0,0.0,1,160,160,5.0,320,28,30,27,28,113,admit
+Shirish Shinde,6.74,Purdue University - West Lafayette - Business Analytics,63,5.3,1,165,148,2.5,313,25,26,23,28,102,admit
+Gaurav Patel,8.91,Purdue University - West Lafayette - Computer Engineering,0,0.0,1,161,151,3.0,312,23,25,24,26,98,admit
+Shrinivas Katkam,8.34,Purdue University - West Lafayette - Chemical Engineering,0,0.0,0,161,153,3.5,314,26,28,25,24,103,admit
+Aditya Ramesh,8.7,Purdue University - West Lafayette - Chemical Engineering,5,0.5,2,165,165,4.0,330,27,30,28,30,115,admit
+Aditya Varshney,8.3,Purdue University - West Lafayette - Computer Engineering,28,2.4,0,164,151,3.0,315,27,29,26,25,107,reject
+Abhinav Singh,8.27,Purdue University - West Lafayette - Business Analytics,33,2.9,0,170,157,3.0,327,25,28,24,30,107,admit
+Anik Shair,8.6,Purdue University - West Lafayette - Computer Science,3,0.3,0,168,150,5.0,318,28,30,28,28,114,admit
+Manupriya Gupta,8.83,University of California - San Diego - Computer Science,0,0.0,1,170,155,4.5,325,30,30,29,27,116,reject
+Abrar Mohammed,9.15,University of California - San Diego - Computer Science,8,0.8,3,164,149,4.0,313,23,29,21,28,101,reject
+Apratim Shukla,9.19,University of California - San Diego - Computer Science,20,1.8,3,165,155,4.5,320,28,27,28,30,113,reject
+Shaurya Gomber,9.66,University of California - San Diego - Computer Science,18,1.6,0,169,157,4.0,326,28,30,27,30,115,reject
+Sahil Mondal,9.72,University of California - San Diego - Computer Science,8,0.8,1,161,153,4.5,314,25,28,29,26,108,reject
+Ankur Banerji,9.61,University of California - San Diego - Computer Science,3,0.3,0,165,147,3.5,312,30,27,23,23,103,reject
+Adesh Agarwal,8.13,University of California - San Diego - Computer Science,9,0.9,0,170,158,4.0,328,23,30,27,26,106,reject
+Justine George,7.53,University of California - San Diego - Computer Science,28,2.4,0,170,163,4.5,333,26,30,30,30,116,reject
+Shishir Choudary,8.32,University of California - San Diego - Electrical and Computer Engineering,6,0.6,2,169,163,4.0,332,23,27,29,28,107,admit
+Mehul Nachankar,9.26,University of California - San Diego - Electrical and Computer Engineering,8,0.8,0,166,148,4.0,314,25,28,25,29,107,admit
+Navya Singla,9.37,University of California - San Diego - Computer and Electrical Engineering,20,1.8,0,168,152,3.5,320,24,30,23,26,103,admit
+Atharv Ganla,9.05,University of California - San Diego - Computer Science,0,0.0,1,165,150,4.0,315,26,29,26,25,106,reject
+Naman Dangi,9.2,University of California - San Diego - Computer Science,18,1.6,2,168,155,4.0,323,26,26,29,30,111,admit
+Sunand Agarwal,8.48,University of California - San Diego - Computer Science,24,2.0,0,170,160,4.5,330,25,29,27,30,111,reject
+Joydeep Mishra,7.39,University of California - San Diego - Business Analytics,48,4.0,0,160,159,5.0,319,29,29,28,29,115,admit
+Subhadeep Jana,9.07,University of California - San Diego - Computer Science,0,0.0,1,164,156,4.0,320,29,30,28,29,116,reject
+Prabin Rath,8.91,University of California - San Diego - Engineering Electrical and Computer,24,2.0,6,167,160,3.5,327,25,29,26,24,104,reject
+Arpit Patil,9.74,University of California - San Diego - Computer Science,6,0.6,2,167,147,4.0,314,23,27,26,29,105,reject
+Gaurav Koradiya,9.82,University of California - San Diego - Computer Science,33,2.9,0,169,156,3.0,325,21,30,29,27,107,reject
+Ratan Singh,9.42,University of California - San Diego - Computer and Electrical Engineering,37,3.1,8,168,152,4.0,320,25,25,25,25,100,admit
+Rishi Raj,8.05,University of California - San Diego - Computer Science,0,0.0,0,163,149,3.0,312,21,30,22,27,100,reject
+Arnav Agarwal,8.4,University of California - San Diego - Business Analytics,10,0.1,1,162,153,4.5,315,28,28,24,28,108,admit
+Swarnangshu Ghosh,7.7,University of California - San Diego - Civil Engineering,0,0.0,3,165,155,4.0,320,28,28,28,30,114,reject
+Tanay Dhaka,6.77,University of California - San Diego - Business Analytics,26,2.2,0,169,153,3.0,322,28,20,24,26,98,reject
+Karan Kapoor,8.23,University of California - San Diego - Computer Science,42,3.6,1,169,152,4.5,321,24,29,28,27,108,reject
+Aditya Shah,9.3,University of California - San Diego - Computer Science,10,0.1,3,165,149,3.5,314,26,28,24,26,104,reject
+Gaurav Patel,8.91,University of California - San Diego - Electrical Engineering,0,0.0,1,161,151,3.0,312,23,25,24,26,98,reject
+Aditya Varshney,8.3,University of California - San Diego - Computer Engineering,28,2.4,0,164,151,3.0,315,27,29,26,25,107,reject
+Mohit Khanna,8.12,University of California - San Diego - Business Analytics,30,2.6,0,155,151,3.5,306,25,27,25,28,105,reject
+Anish Goel,8.09,University of Cincinnati - Business Analytics - MS,41,3.5,0,163,153,4.0,316,22,30,25,28,105,admit
+Manas M Bhat,7.69,University of Cincinnati - Information Systems (MIS),38,3.2,6,169,151,4.0,320,25,29,26,27,107,admit
+Panuganti Jayanth Kumar,9.2,University of Cincinnati - Computer Engineering - Computer Systems,1,0.1,1,167,154,3.5,321,20,26,24,26,96,admit
+Chetan Kumar,8.0,University of Cincinnati - Robotics and Autonomous Systems,0,0.0,0,164,164,2.5,328,23,30,21,27,101,reject
+Dinesh Valasala,8.35,University of Cincinnati - Computer Science,50,4.2,0,169,151,3.5,320,22,27,29,28,106,reject
+Upendar Penmetcha,7.8,University of Cincinnati - Computer Science,4,0.4,0,168,142,3.0,310,24,25,20,25,94,admit
+Anurag Gupta,8.18,University of Cincinnati - Information Systems (MIS),62,5.2,0,158,153,4.0,311,28,28,26,29,111,admit
+Ashish Gurung,7.16,University of Cincinnati - Computer Science,12,1.0,0,163,157,3.5,320,26,29,26,28,109,reject
+Sriharsha Mittapalli,8.41,University of Cincinnati - Business Analytics,91,7.7,0,168,152,5.0,320,25,24,27,24,100,admit
+Amar K H,7.37,University of Cincinnati - Information Systems (MIS),60,5.0,0,165,146,3.0,311,24,29,21,23,97,admit
+Tushar Tyagi,8.61,University of Cincinnati - Business Analytics,88,7.4,0,165,152,4.0,317,24,26,22,26,98,admit
+Neel Suratwala,8.36,University of Cincinnati - Mechanical Engineering,9,0.9,0,169,144,3.0,313,22,25,21,24,92,admit
+Ram Vardhan Ramraj,8.51,University of Texas - Dallas - Computer Science,0,0.0,1,161,143,3.5,304,28,26,22,24,100,reject
+Anish Goel,8.09,University of Texas - Dallas - Business Analytics - MS,41,3.5,0,163,153,4.0,316,22,30,25,28,105,admit
+Saloni Oswal,9.21,University of Texas - Dallas - Computer Science,3,0.3,0,161,149,4.0,310,24,28,25,25,102,admit
+Srikant Nag,8.45,University of Texas - Dallas - Computer Engineering,0,0.0,0,162,155,3.0,317,25,24,21,28,98,admit
+Kriti Ghosh,9.29,University of Texas - Dallas - Computer Science,0,0.0,0,165,153,4.5,318,28,28,29,29,114,admit
+Ishika Rastogi,8.62,University of Texas - Dallas - Engineering Electrical and Computer,0,0.0,1,157,144,3.5,301,23,23,24,24,94,admit
+Shakir Enam,7.16,University of Texas - Dallas - Information Technology and Management,60,5.0,0,158,144,3.0,302,25,25,25,25,100,admit
+Juhi Malkani,9.22,University of Texas - Dallas - Computer Science,18,1.6,0,161,152,4.0,313,26,30,28,28,112,admit
+Shubham Jadhav,8.32,University of Texas - Dallas - Electrical Engineering,0,0.0,0,169,161,3.0,330,22,30,28,25,105,admit
+Sai Dutt,6.21,University of Texas - Dallas - Information Systems (MIS),36,3.0,1,157,161,3.0,318,26,28,26,30,110,admit
+Atharva Pimpalgaonkar,9.65,University of Texas - Dallas - Electrical Engineering,0,0.0,0,158,152,3.5,310,24,28,23,29,104,admit
+Manasi Khopade,7.86,University of Texas - Dallas - Information Technology and Management,0,0.0,0,158,151,3.0,309,26,29,21,29,105,admit
+Shashank Kandaala,7.74,University of Texas - Dallas - Computer Science,4,0.4,1,168,146,3.5,314,23,29,28,25,105,reject
+Vinayak S,8.55,University of Texas - Dallas - Computer Engineering,3,0.3,0,164,148,4.0,312,25,24,22,24,95,admit
+Justine George,7.53,University of Texas - Dallas - Computer Science,28,2.4,0,170,163,4.5,333,26,30,30,30,116,admit
+Krishna Sree G,8.86,University of Texas - Dallas - Computer Science,30,2.6,0,162,146,3.0,308,22,25,24,28,99,reject
+Pranav B P,7.3,University of Texas - Dallas - Computer Science,18,1.6,0,154,146,3.0,300,29,27,23,27,106,reject
+Sarthak Dalal,8.8,University of Texas - Dallas - Computer Science,0,0.0,3,168,149,5.0,317,28,27,30,29,114,reject
+Mihir Kapile,8.2,University of Texas - Dallas - Computer Science,0,0.0,1,168,153,3.5,321,28,29,25,25,107,reject
+Rahul Reddy,9.0,University of Texas - Dallas - Computer Science,4,0.4,3,170,161,4.5,331,20,20,16,20,76,admit
+Dharmik Naik,9.91,University of Texas - Dallas - Computer Science,18,1.6,0,165,151,3.5,316,24,28,25,28,105,admit
+Ashish Shethia,8.34,University of Texas - Dallas - Information Technology and Management,0,0.0,2,154,153,3.0,307,24,23,23,23,93,admit
+Sujithra Kathiravan,8.0,University of Texas - Dallas - Business Analytics - MS,10,0.1,0,154,152,4.0,306,24,25,28,28,105,admit
+Devanshu Desai,8.55,University of Texas - Dallas - Computer Science,9,0.9,0,167,154,3.0,321,24,23,22,25,94,reject
+Yogesh Raisinghani,9.27,University of Texas - Dallas - Computer Science,10,0.1,2,163,147,3.5,310,25,29,24,28,106,admit
+Kaustubh Srivastava,7.0,University of Texas - Dallas - Business Analytics - MS,24,2.0,0,162,149,4.0,311,28,21,24,17,90,admit
+Pratyush Sahu,8.05,University of Texas - Dallas - Computer Science,34,2.1,1,160,140,3.0,300,24,25,28,21,98,reject
+Kavana R,8.12,University of Texas - Dallas - Information Technology and Management,15,1.3,1,159,149,3.5,308,27,28,27,24,106,admit
+Pritesh Ambavane,8.14,University of Texas - Dallas - Computer Science,28,2.4,1,153,142,3.0,295,25,25,26,21,97,reject
+Harish Radhakrishnan Krishnamoorthy,7.0,University of Texas - Dallas - Information Technology and Management,13,1.1,0,156,146,3.0,302,18,26,21,26,91,admit
+Subhadeep Jana,9.07,University of Texas - Dallas - Computer Science,0,0.0,1,164,156,4.0,320,29,30,28,29,116,admit
+Harshvadan Mihir,8.14,University of Texas - Dallas - Computer Engineering,0,0.0,1,164,152,4.0,316,22,29,27,29,107,admit
+Swarneil Pradhan,9.03,University of Texas - Dallas - Information Technology and Management,13,1.1,1,155,151,4.0,306,24,25,21,27,97,admit
+Saurabh Sonawane,8.1,University of Texas - Dallas - Business Analytics - MS,9,0.9,0,150,150,4.0,300,27,28,30,28,113,admit
+Arpit Patil,9.74,University of Texas - Dallas - Computer Science,6,0.6,2,167,147,4.0,314,23,27,26,29,105,admit
+Rishabh Singh,7.73,University of Texas - Dallas - Computer Science,0,0.0,0,161,145,2.5,306,23,23,24,26,96,reject
+Aditya Kumar,7.88,University of Texas - Dallas - Electrical Engineering,6,0.6,6,160,146,3.5,306,21,28,30,26,105,admit
+Nabeel Khan,7.43,University of Texas - Dallas - Business Analytics,2,0.2,0,152,166,4.0,318,24,29,25,28,106,admit
+Bhavya Shah,8.04,University of Texas - Dallas - Information Technology and Management,0,0.0,0,159,144,3.5,303,23,22,23,26,94,admit
+Atharv Ganla,9.05,University of Texas - Dallas - Computer Science,0,0.0,1,165,150,4.0,315,26,29,26,25,106,admit
+Akshat Bakliwal,7.74,University of Texas - Dallas - Computer Science,6,0.6,1,165,146,3.0,311,22,29,21,23,95,reject
+Swaraj Mohapatra,7.95,University of Texas - Dallas - Engineering Management,6,0.6,0,165,149,2.5,314,25,30,23,27,105,admit
+Anuj Mahajan,8.99,University of Texas - Dallas - Computer Science,30,2.6,1,160,151,3.0,311,25,27,24,27,103,admit
+Charan Reddy,7.81,University of Texas - Dallas - Business Analytics - MS,0,0.0,1,168,152,3.0,320,21,23,23,23,90,admit
+Sarthak Chawathe,7.95,University of Texas - Dallas - Business Analytics - MS,18,1.6,1,156,144,3.5,300,24,22,23,25,94,admit
+Anirudh Joshi,6.95,University of Texas - Dallas - Information Technology and Management,40,3.4,0,158,143,3.0,301,23,23,23,20,89,admit
+Ritesh Choudhary,8.1,University of Texas - Dallas - Information Technology and Management,7,0.7,4,154,146,4.0,300,27,20,22,22,91,admit
+Avinash Hegde Kota,8.55,University of Texas - Dallas - Computer Engineering,0,0.0,3,164,153,3.5,317,25,25,20,25,95,admit
+Kashyap Soni,7.8,University of Texas - Dallas - Computer Science,0,0.0,1,170,159,3.5,329,27,29,27,29,112,admit
+Harshad Patil,8.9,University of Texas - Dallas - Mechanical Engineering,0,0.0,3,156,146,3.0,302,27,26,20,22,95,admit
+Parth Gulavani,7.82,University of Texas - Dallas - Information Technology and Management,5,0.5,0,161,151,4.0,312,26,27,27,26,106,admit
+Amartya Kalapahar,8.96,University of Texas - Dallas - Computer Science,13,1.1,1,166,142,4.0,308,25,25,30,27,107,admit
+Tanmay Jain,8.9,University of Texas - Dallas - Computer Science,0,0.0,0,163,148,3.5,311,23,26,24,20,93,admit
+Anil Antony K,7.55,University of Texas - Dallas - Mechanical Engineering,5,0.5,1,160,156,4.0,316,25,29,27,28,109,admit
+Ruthwik B G,8.63,University of Texas - Dallas - Computer Science,6,0.6,2,164,154,3.0,318,22,25,24,30,101,reject
+Tulaja Chada,7.67,University of Texas - Dallas - Supply Chain Management,6,0.6,1,164,148,4.0,312,26,30,25,24,105,admit
+Gaurav Koradiya,9.82,University of Texas - Dallas - Computer Science - Artificial Intelligence,33,2.9,0,169,156,3.0,325,21,30,29,27,107,admit
+Abdul Samadh,8.57,University of Texas - Dallas - Computer Science,29,2.5,3,169,154,4.0,323,30,30,29,30,119,reject
+Aryak Bodkhe,8.12,University of Texas - Dallas - Business Analytics - MS,5,0.5,4,159,143,3.5,302,26,27,25,23,101,admit
+Hansel Lewis,8.65,University of Texas - Dallas - Business Analytics,0,0.0,1,164,149,4.0,313,26,24,27,23,100,admit
+Anushka Bajpai,8.2,University of Texas - Dallas - Computer Science,50,4.2,0,160,155,4.0,315,23,30,26,26,105,reject
+Nayan Joshi,7.75,University of Texas - Dallas - Business Analytics,12,1.0,0,161,155,4.0,316,26,22,29,28,105,admit
+Sai Lakshmi,7.3,University of Texas - Dallas - Business Analytics - MS,11,0.11,0,166,153,2.5,319,21,28,23,24,96,admit
+Varun Agarwal,8.37,University of Texas - Dallas - Computer Science,20,1.8,2,167,150,3.5,317,25,25,30,24,104,reject
+Vedant Gupta,7.09,University of Texas - Dallas - Computer Science,41,3.5,0,159,156,4.0,315,23,29,30,28,110,reject
+Manikanta Sai Yarlagadda,8.06,University of Texas - Dallas - Business Analytics,40,3.4,1,162,152,2.5,314,22,29,23,26,100,admit
+Chetan S,8.33,University of Texas - Dallas - Computer Science,72,6.0,0,163,154,3.5,317,22,24,25,24,95,admit
+Ravichandra Basireddy,9.95,University of Texas - Dallas - Computer Science,16,1.4,0,162,142,3.0,304,20,24,23,28,95,admit
+Vinutha Ananth,9.03,University of Texas - Dallas - Computer Science,40,3.4,0,150,155,4.0,305,29,30,28,28,115,admit
+Gaurav Chattree,8.6,University of Texas - Dallas - Computer Science,36,3.0,1,167,155,3.0,322,25,29,22,28,104,admit
+Dinesh Valasala,8.35,University of Texas - Dallas - Computer Science,50,4.2,0,169,151,3.5,320,22,27,29,28,106,admit
+Rishi Raj,8.05,University of Texas - Dallas - Computer Science,0,0.0,0,163,149,3.0,312,21,30,22,27,100,admit
+Sharan Sukesh,6.5,University of Texas - Dallas - Information Technology and Management,36,3.0,0,156,159,4.5,315,29,30,24,30,113,admit
+Jay Shete,7.89,University of Texas - Dallas - Computer Science,34,2.1,0,163,149,4.0,312,26,25,26,23,100,admit
+Shubham Dwivedi,7.9,University of Texas - Dallas - Management Information Systems,34,2.1,0,154,143,3.5,297,23,30,26,27,106,admit
+Nadhiya Ganesan,8.75,University of Texas - Dallas - Computer Science,72,6.0,0,153,147,3.0,300,22,23,24,22,91,admit
+Shreya Das,8.68,University of Texas - Dallas - Computer Science,32,2.8,0,130,130,4.0,260,20,25,25,29,99,admit
+Archit Vats,8.3,University of Texas - Dallas - Computer Science,1,0.1,0,159,151,4.0,310,23,28,26,26,103,admit
+Pavan Kumar Ananthula,6.26,University of Texas - Dallas - Computer Science,18,1.6,0,169,145,2.5,314,25,20,25,22,92,reject
+Kashish Santani,6.85,University of Texas - Dallas - Information Technology and Management,0,0.0,0,166,154,3.5,320,26,25,26,29,106,admit
+Arnav Agarwal,8.4,University of Texas - Dallas - Business Analytics,10,0.1,1,162,153,4.5,315,28,28,24,28,108,admit
+Baasit Sharief,7.65,University of Texas - Dallas - Computer Science,12,1.0,1,168,156,4.0,324,23,28,27,28,106,admit
+Pratik Naik,9.34,University of Texas - Dallas - Computer Science,2,0.2,0,163,147,4.0,310,25,29,25,29,108,admit
+Harshwardhan Singh,8.85,University of Texas - Dallas - Computer Engineering,0,0.0,0,165,156,4.0,321,27,25,29,25,106,admit
+Ajay Babu Gorantla,7.27,University of Texas - Dallas - Computer Science,8,0.8,0,159,153,4.0,312,18,23,24,23,88,reject
+Madhu Alla,8.9,University of Texas - Dallas - Computer Science,6,0.6,1,165,145,4.0,310,24,28,25,26,103,admit
+Veeral Jain,7.4,University of Texas - Dallas - Information Systems (MIS),30,2.6,0,161,162,4.5,323,25,29,28,30,112,admit
+Neha Pande,7.6,University of Texas - Dallas - Computer Engineering,48,4.0,0,169,154,3.5,323,26,29,25,30,110,admit
+Akash Roy,9.51,University of Texas - Dallas - Electrical Engineering,18,1.6,3,170,150,5.0,320,29,29,10,27,95,admit
+Naveen Senthil Kumar,9.1,University of Texas - Dallas - Computer Science,3,0.3,1,161,142,3.5,303,24,22,26,21,93,admit
+Ritika Tilwalia,8.5,University of Texas - Dallas - Business Analytics,1,0.1,2,161,148,3.5,309,26,28,25,26,105,admit
+Ritvik Tiwari,7.65,University of Texas - Dallas - Electrical Engineering,3,0.3,0,164,155,3.5,319,23,26,27,29,105,admit
+Anurag Gupta,8.18,University of Texas - Dallas - Information Systems (MIS),62,5.2,0,158,153,4.0,311,28,28,26,29,111,admit
+Jaswanth Gorthi,8.01,University of Texas - Dallas - Computer Science,2,0.2,0,165,149,3.0,314,23,23,21,30,97,admit
+Prishita Kadam,9.22,University of Texas - Dallas - Computer Science,0,0.0,0,159,147,3.5,306,22,26,22,26,96,admit
+Namrata Ruchandani,7.42,University of Texas - Dallas - Computer Science,0,0.0,0,165,143,3.5,308,24,24,25,28,101,reject
+Sanskriti Sawant,7.19,University of Texas - Dallas - Computer Engineering,2,0.2,0,161,147,4.0,308,24,30,24,25,103,admit
+Sai Manikanta,7.64,University of Texas - Dallas - Computer Science,18,1.6,0,170,151,3.5,321,26,30,21,27,104,admit
+Hemendu Roy,7.58,University of Texas - Dallas - Computer Science,24,2.0,1,165,155,5.0,320,26,30,29,29,114,reject
+Shailee Maheshwari,6.32,University of Texas - Dallas - Economics,32,2.8,0,165,147,3.5,312,26,26,25,22,99,admit
+Shreyas Kulkarni,8.99,University of Texas - Dallas - Computer Science,0,0.0,1,162,150,3.0,312,28,23,25,27,103,admit
+Shubham Choudhary,7.01,University of Texas - Dallas - Computer Science,0,0.0,0,150,140,3.5,290,23,17,26,21,87,reject
+Prajwal Manjunath,8.7,University of Texas - Dallas - Computer Science,24,2.0,0,154,155,3.5,309,24,27,22,23,96,admit
+Malavika Krishnan,7.42,University of Texas - Dallas - Data Analytics,28,2.4,0,155,153,3.5,308,26,26,26,24,102,reject
+Ikshaku Goswami,8.7,University of Texas - Dallas - Computer Science,24,2.0,0,161,160,4.5,321,27,28,29,28,112,admit
+Tanay Kumar,7.26,University of Texas - Dallas - Information Technology,12,1.0,0,161,156,3.5,317,29,25,25,28,107,admit
+Akshay Kumar D,7.68,University of Texas - Dallas - Information Systems (MIS),26,2.2,0,153,152,3.0,305,22,26,23,26,97,admit
+Saravanan Arumugam,7.78,University of Texas - Dallas - Business Analytics,60,5.0,0,159,155,3.5,314,25,26,25,28,104,admit
+Pravin Kadam,8.4,University of Texas - Dallas - Computer Science,0,0.0,0,166,143,3.0,309,24,23,23,26,96,admit
+Shirish Shinde,6.74,University of Texas - Dallas - Business Analytics,63,5.3,1,165,148,2.5,313,25,26,23,28,102,admit
+Rohan Kumar,8.5,University of Texas - Dallas - Engineering Management,1,0.1,0,163,148,3.5,311,27,27,28,23,105,admit
+Jithendra Gottu,7.57,University of Texas - Dallas - Information Systems (MIS),0,0.0,0,159,153,3.0,312,21,26,25,28,100,admit
+Amruta Ambre,7.26,University of Texas - Dallas - Information Systems (MIS),84,7.0,1,151,136,4.5,287,29,20,21,19,89,admit
+Anonymous Explorer,8.24,University of Texas - Dallas - Computer Science,24,2.0,8,166,150,4.5,316,26,23,29,27,105,admit
+Devki Desai,8.06,University of Texas - Dallas - Computer Science,0,0.0,0,170,155,4.0,325,27,27,30,26,110,admit
+Masoom Patel,8.47,University of Texas - Dallas - Information Systems (MIS),2,0.2,0,156,144,4.0,300,28,24,22,27,101,admit
+Aditya Varshney,8.3,University of Texas - Dallas - Computer Engineering,28,2.4,0,164,151,3.0,315,27,29,26,25,107,admit
+Shantanu Mahendru,6.53,University of Texas - Dallas - Business Analytics,36,3.0,0,162,155,4.5,317,26,27,28,25,106,admit
+Tanya Sobti,8.47,University of Texas - Dallas - Finance,0,0.0,0,165,160,4.0,325,27,27,27,27,108,admit
+Mohit Khanna,8.12,University of Texas - Dallas - Business Analytics,30,2.6,0,155,151,3.5,306,25,27,25,28,105,admit
+Mohit Tikariya,7.6,University of Texas - Dallas - Computer Engineering,0,0.0,0,158,144,3.0,302,19,25,23,28,95,admit
+Aditya Vora,8.3,University of Texas - Dallas - Computer Science,48,4.0,3,165,151,4.0,316,25,28,27,24,104,admit
+Krishna Bhaskar,9.0,University of Texas - Dallas - Computer Science,10,0.1,1,160,147,3.5,307,22,25,25,21,93,admit
+Jaithra Reddy,9.88,University of Texas - Dallas - Computer Engineering,3,0.3,0,162,142,3.5,304,25,25,20,25,95,admit
+Rupali Roy,9.06,University of Texas - Dallas - Information Systems (MIS),36,3.0,0,167,153,4.0,320,26,24,25,26,101,admit
+Kushan Dixit,7.62,University of South Florida - Civil Engineering,36,3.0,0,159,157,4.0,316,22,24,24,28,98,reject
+Mallikharjuna Rao Annam,8.54,University of South Florida - Computer Science,36,3.0,2,160,152,3.0,312,17,23,24,29,93,reject
+Praneeth Vardhan,7.68,University of South Florida - Computer Science with Data Science,0,0.0,0,165,152,3.0,317,18,29,21,27,95,reject
+Pavan Chandrasekar,8.45,University of South Florida - Transportation Engineering,0,0.0,5,160,146,3.0,306,22,28,24,26,100,admit
+Akshay Kumar D,7.68,University of South Florida - Information Systems (MIS),26,2.2,0,153,152,3.0,305,22,26,23,26,97,admit
+Jithendra Gottu,7.57,University of South Florida - Business Analytics,0,0.0,0,159,153,3.0,312,21,26,25,28,100,admit
+Venkata Abhinav Dusi,8.82,University of Maryland - College Park - Robotics,0,0.0,0,159,147,4.0,306,23,25,21,23,92,admit
+Arjun Aravind,8.75,University of Maryland - College Park - Mechanical Engineering - Manufacturing,12,1.0,0,162,158,4.0,320,25,29,29,26,109,admit
+Rituparna Desai,8.9,University of Maryland - College Park - Information Systems (MIS),20,1.8,3,155,152,4.0,307,25,27,28,28,108,admit
+Varun Agarwal,8.37,University of Maryland - College Park - Software Engineering,24,2.0,2,167,150,3.5,317,25,25,30,24,104,admit
+Siddharth Purohit,8.2,University of Maryland - College Park - Business Analytics,0,0.0,0,165,156,4.5,321,25,27,29,27,108,admit
+Shashwat Anand,7.52,University of Maryland - College Park - Information Systems (MIS),32,2.8,0,165,149,3.5,314,25,28,28,25,106,admit
+Sudarshan Mane,7.49,University of Maryland - College Park - Civil Engineering,12,1.0,0,161,144,3.5,305,21,25,25,26,97,reject
+Rishabh Singh,8.23,University of Maryland - College Park - Robotics,13,1.1,1,162,146,3.5,308,25,24,20,23,92,admit
+Manas M Bhat,7.7,University of Maryland - College Park - Information Systems (MIS),38,3.2,6,169,151,4.0,320,25,29,26,27,107,admit
+Pathapati Jyoshna,8.51,University of Maryland - College Park - Data Science and Analytics,10,0.1,0,170,160,3.0,330,20,28,21,28,97,admit
+Chetan Kumar,8.0,University of Maryland - College Park - Robotics,0,0.0,0,164,164,2.5,328,23,30,21,27,101,admit
+Rohan Kacheria,7.9,University of Maryland - College Park - Management Information Systems,12,1.0,2,163,150,4.5,313,27,25,29,29,110,admit
+Tarun Dadlani,7.61,University of Maryland - College Park - Data Science and Analytics,16,1.4,1,162,143,3.5,305,23,22,21,22,88,admit
+Somik Dhar,8.52,University of Maryland - College Park - Electrical and Computer Engineering,11,0.11,0,167,147,4.0,314,23,29,27,29,108,admit
+Karan Pandya,7.4,University of Maryland - College Park - Information Systems (MIS),8,0.8,1,169,150,4.0,319,30,27,24,30,111,admit
+Akshat Shah,8.23,University of Maryland - College Park - Computer Science (Cyber Security),5,0.5,0,170,154,4.0,324,23,27,24,20,94,admit
+Sushanth Manivannan,9.06,University of Maryland - College Park - Electrical and Computer Engineering,1,0.1,0,165,158,4.0,323,29,25,27,30,111,admit
+Arunava Basu,8.25,University of Maryland - College Park - Robotics,23,1.11,1,166,153,4.5,319,29,28,29,29,115,admit
+Upendar Penmetcha,7.8,University of Maryland - College Park - Machine Learning and Computer Vision,4,0.4,0,168,142,3.0,310,24,25,20,25,94,admit
+Anurag Gupta,8.18,University of Maryland - College Park - Information Systems Management,62,5.2,0,158,153,4.0,311,28,28,26,29,111,admit
+Pavan Chandrasekar,8.45,University of Maryland - College Park - Civil Engineering,0,0.0,5,160,146,3.0,306,22,28,24,26,100,admit
+Pratik Naik,9.34,University of Maryland - College Park - Software Engineering,2,0.2,0,163,147,4.0,310,25,29,25,29,108,admit
+Rucha Pupala,7.15,University of Maryland - College Park - Mechanical Engineering,20,1.8,1,160,152,3.5,312,23,28,28,24,103,admit
+Ankit Shankhala,7.91,University of Maryland - College Park - Information Systems (MIS),12,1.0,0,157,154,3.5,311,25,26,27,26,104,admit
+Syed Faiz,6.81,University of Maryland - College Park - Information Systems (MIS),12,1.0,0,159,153,4.0,312,25,26,25,24,100,admit
+Masoom Patel,8.47,University of Maryland - College Park - Information Systems (MIS),2,0.2,0,156,144,4.0,300,28,24,22,27,101,admit
+Poojan Thakkar,8.7,University of Maryland - College Park - Computer Science,4,0.4,1,162,157,4.5,319,28,30,27,28,113,reject
+Aayush Rijal,8.7,University of Maryland - College Park - Data Science,1,0.1,1,165,155,3.5,320,25,25,25,25,100,admit
+Aishwarya Pani,8.5,University of Washington - Computer Science,51,4.3,0,162,142,3.0,304,22,28,25,22,97,admit
+Deepak Ayyalasomayajula,8.67,University of Washington - Materials Science and Engineering,18,1.6,3,167,158,4.0,325,24,29,23,29,105,admit
+Kathan Desai,8.7,University of Washington - Chemical Engineering MSc,0,0.0,0,162,152,3.0,314,23,30,24,24,101,admit
+Kunkunuri Koushik,7.95,University of Washington - Information Management,12,1.0,0,165,155,3.0,320,21,27,21,25,94,reject
+Tanay Shah,9.22,University of Washington - Data Science,6,0.6,1,170,153,4.0,323,26,29,26,29,110,reject
+Revathi Prasad,8.97,University of Washington - Electrical and Computer Engineering,30,2.6,1,160,154,3.5,314,26,27,23,30,106,reject
+Arjun Sharma,8.73,University of Washington - Data Science,18,1.6,5,169,155,5.5,324,30,30,30,30,120,admit
+Atharva Pimpalgaonkar,9.65,University of Washington - Electrical Engineering,0,0.0,0,158,152,3.5,310,24,28,23,29,104,admit
+Sagnik Ghosal,9.1,University of Washington - Data Science,6,0.6,3,169,154,5.0,323,27,30,27,29,113,admit
+Shantanu Lohar,9.29,University of Washington - Electrical and Computer Engineering,4,0.4,0,164,153,4.5,317,30,27,27,26,110,admit
+Megha Chandra,9.36,University of Washington - Electrical and Computer Engineering,0,0.0,4,166,155,3.5,321,22,30,28,30,110,admit
+Hardik S Jain,9.43,University of Washington - Data Science,18,1.6,1,168,155,4.0,323,25,29,28,30,112,reject
+Romit Ganjoo,9.33,University of Washington - Information Management,12,1.0,3,166,154,4.0,320,28,24,24,28,104,reject
+Jainam Gandhi,7.65,University of Washington - Finance,16,1.4,0,163,151,4.0,314,24,28,24,28,104,reject
+Vinutha Ananth,9.03,University of Washington - Computer Science,40,3.4,0,150,155,4.0,305,29,30,28,28,115,reject
+Muthiah Muralidharan Saravanan,8.44,University of Washington - Mechanical Engineering - Automation and Robotic Systems,0,0.0,0,160,152,4.5,312,25,24,27,25,101,admit
+Nisha Fotedar,7.56,University of Washington - Information Technology,83,6.11,0,164,144,3.5,308,24,24,26,26,100,admit
+Avinash V,9.32,University of Washington - Information Systems (MIS),21,1.9,3,169,156,4.5,325,23,29,27,28,107,admit
+Nisha Fotedar,7.56,University of Washington - Information Systems (MIS),83,6.11,0,164,144,3.5,308,24,24,26,26,100,reject
+Ankit Shankhala,7.91,University of Washington - Information Systems (MIS),12,1.0,0,157,154,3.5,311,25,26,27,26,104,admit
+Jai Iyer,9.4,University of Washington - Electrical Engineering,6,0.6,1,162,139,3.0,301,25,25,25,25,100,reject
+Poojan Thakkar,8.7,University of Washington - Data Science,4,0.4,1,162,157,4.5,319,28,30,27,28,113,reject
+Ankit Anand,7.78,University of Washington - Data Science,34,2.1,0,165,149,3.0,314,21,21,24,19,85,reject
+Harsh Agrawal,8.91,Georgia Institute of Technology - Computer Science,2,0.2,3,163,155,4.0,318,28,30,27,30,115,reject
+Syed Angkan Haider,9.1,Georgia Institute of Technology - Mechanical Engineering,7,0.7,4,166,152,5.0,318,29,24,30,30,113,admit
+Atharva Pradhan,9.43,Carnegie Mellon University - Robotics,0,0.0,0,167,144,3.5,311,26,29,25,27,107,reject
+Swadhin Routray,9.19,Carnegie Mellon University - Cyber Security and Privacy,8,0.8,2,164,153,4.0,317,25,29,28,29,111,admit
+Manupriya Gupta,8.83,Carnegie Mellon University - Computer Science,0,0.0,1,170,155,4.5,325,30,30,29,27,116,reject
+Pratik Chaudhari,8.33,Carnegie Mellon University - Product Management,33,2.9,3,163,144,3.0,307,25,22,25,24,96,admit
+Kathan Desai,8.7,Carnegie Mellon University - Chemical Engineering MSc,0,0.0,0,162,152,3.0,314,23,30,24,24,101,admit
+Ipsita Praharaj,7.98,Carnegie Mellon University - Information Systems Management,24,2.0,1,166,152,3.5,318,24,27,25,22,98,admit
+Rohan Kacheria,7.9,Carnegie Mellon University - Information Systems (MIS),12,1.0,2,163,150,4.5,313,27,25,29,29,110,admit
+Pratik Mandlecha,8.8,Carnegie Mellon University - Computational Data Science,24,2.0,4,170,154,4.0,324,29,28,28,30,115,admit
+Maharshi Roy,9.43,Carnegie Mellon University - Computational Data Science,22,1.1,0,169,159,5.0,328,30,30,28,29,117,admit
+Varun Agarwal,8.37,Carnegie Mellon University - Software Engineering,20,1.8,2,167,150,3.5,317,25,25,30,24,104,admit
+Manav Jain,9.15,Carnegie Mellon University - Software Engineering,18,1.6,2,163,146,3.0,309,27,27,27,27,108,admit
+Akshat Bakliwal,7.74,Carnegie Mellon University - Software Engineering,6,0.6,1,165,146,3.0,311,22,29,21,23,95,reject
+Harsh Agrawal,8.91,Carnegie Mellon University - Computer Science,2,0.2,3,163,155,4.0,318,28,30,27,30,115,reject
+Tanmay Kapoor,9.33,Carnegie Mellon University - Computer Science,4,0.4,0,167,157,5.0,324,29,29,29,27,114,reject
+Shaurya Gomber,9.66,Carnegie Mellon University - Computer Science,18,1.6,0,169,157,4.0,326,28,30,27,30,115,reject
+Sagnik Ghosal,9.1,Carnegie Mellon University - Computational Data Science,6,0.6,3,169,154,5.0,323,27,30,27,29,113,reject
+Himadyuti Bhanja,9.15,Carnegie Mellon University - Computing (Artificial Intelligence and Machine Learning),17,1.5,0,169,159,4.0,328,26,27,30,28,111,reject
+Zac Spectre,7.72,"Carnegie Mellon University - Computer Vision, Robotics and Machine Learning",48,4.0,0,166,155,4.0,321,25,26,28,24,103,reject
+Sai Krishna Sashank Madipally,9.25,Carnegie Mellon University - Computing (Artificial Intelligence and Machine Learning),14,1.2,1,164,158,4.0,322,28,28,26,28,110,reject
+Pranav Popat,8.75,Carnegie Mellon University - Information Systems (MIS),31,2.7,0,165,168,3.5,333,28,28,29,30,115,admit
+Sunand Agarwal,8.48,Carnegie Mellon University - Computer Science,24,2.0,0,170,160,4.5,330,25,29,27,30,111,reject
+Joshua Prasad,7.94,Carnegie Mellon University - Biotechnology,0,0.0,2,166,158,4.5,324,30,25,22,30,107,admit
+Siddharth Mohapatra,9.43,Carnegie Mellon University - Chemical Engineering - Biotechnology and Bioengineering,5,0.5,0,169,159,4.0,328,30,29,29,27,115,admit
+Hardik S Jain,9.43,Carnegie Mellon University - Computational Data Science,18,1.6,1,168,155,4.0,323,25,29,28,30,112,reject
+Prabin Rath,8.91,Carnegie Mellon University - Robotics,24,2.0,6,167,160,3.5,327,25,29,26,24,104,reject
+Tanay Shah,9.22,Carnegie Mellon University - Computational Data Science,6,0.6,1,170,153,4.0,323,26,29,26,29,110,admit
+Rakesh Arwini,8.2,Carnegie Mellon University - Electrical and Computer Engineering,24,2.0,0,170,155,3.5,325,24,29,22,27,102,reject
+Prithvi Dev K V,7.97,Carnegie Mellon University - Mechnical Engineering,6,0.6,0,159,150,3.5,309,23,29,23,29,104,reject
+Sushanth Manivannan,9.06,Carnegie Mellon University - Electrical and Computer Engineering,1,0.1,0,165,158,4.0,323,29,25,27,30,111,reject
+Blue Clipper,8.57,Carnegie Mellon University - Information Systems (MIS),30,2.6,0,160,155,3.0,315,27,27,25,29,108,admit
+Vaibhav Agarwal,7.97,Carnegie Mellon University - Information Systems (MIS),40,3.4,0,170,159,3.5,329,27,27,27,27,108,admit
+Muthiah Muralidharan Saravanan,8.44,Carnegie Mellon University - Mechanical Engineering - Automation and Robotic Systems,0,0.0,0,160,152,4.5,312,25,24,27,25,101,admit
+Saharsh Aggarwal,8.21,Carnegie Mellon University - Electrical and Computer Engineering,7,0.7,1,170,161,4.5,331,29,30,27,30,116,reject
+Rakshit Shetty,9.3,Carnegie Mellon University - Computer Science,18,1.6,0,160,152,3.5,312,26,26,27,29,108,reject
+Rakshit Shetty,9.3,Carnegie Mellon University - Machine Learning and Computer Vision,18,1.6,0,160,152,3.5,312,26,26,27,29,108,reject
+Nikhil Madaan,9.63,Carnegie Mellon University - Electrical and Computer Engineering,18,1.6,1,170,162,4.0,332,28,29,29,29,115,admit
+Madhavi R,9.03,Carnegie Mellon University - Business Analytics,47,3.11,0,158,154,4.0,312,24,27,25,25,101,admit
+Eshan Mehrotra,8.6,Carnegie Mellon University - Data Analytics,18,1.6,0,164,155,4.0,319,24,30,29,30,113,admit
+Kshitij Nair,8.6,Carnegie Mellon University - Artificial Intelligence,3,0.3,0,162,162,4.5,324,28,28,28,28,112,reject
+Anurag Gupta,8.18,Carnegie Mellon University - Information Systems (MIS),62,5.2,0,158,153,4.0,311,28,28,26,29,111,admit
+Salil Paranjape,9.28,Carnegie Mellon University - Materials Science,4,0.4,1,166,154,3.0,320,22,30,28,28,108,admit
+Abhishek Sansanwal,8.8,Carnegie Mellon University - Computer Science,0,0.0,0,167,152,3.5,319,28,25,24,29,106,reject
+Avinash Swaminathan,9.21,Carnegie Mellon University - Computer Science,12,1.0,4,168,158,4.0,326,27,29,29,30,115,reject
+Anagha S,9.3,Carnegie Mellon University - Electronics and Communication Engineering,1,0.1,2,155,165,5.0,320,25,25,27,30,107,admit
+Saurabh Patil,9.05,Carnegie Mellon University - Mechanical Engineering,3,0.3,0,162,155,4.0,317,27,27,24,27,105,admit
+Shrinivas Katkam,8.34,Carnegie Mellon University - Chemical Engineering,0,0.0,0,161,153,3.5,314,26,28,25,24,103,admit
+Masoom Patel,8.47,Carnegie Mellon University - Information Systems (MIS),2,0.2,0,156,144,4.0,300,28,24,22,27,101,admit
+Aakriti Deoja,8.41,Carnegie Mellon University - Engineering,14,1.2,0,160,157,4.0,317,28,30,28,29,115,admit
+Poojan Thakkar,8.7,Carnegie Mellon University - Information Systems (MIS),4,0.4,1,162,157,4.5,319,28,30,27,28,113,admit
+Rohit Nakashe,9.0,Texas A&M University - College Station - Computer Engineering,0,0.0,0,160,143,3.0,303,20,24,22,21,87,reject
+Rohan Dalvi,8.08,Texas A&M University - College Station - Cybersecurity Engineering,0,0.0,0,160,157,3.5,317,26,24,25,27,102,admit
+Tanmay Kapoor,9.33,Texas A&M University - College Station - Computer Science,4,0.4,0,167,157,5.0,324,29,29,29,27,114,reject
+Subham Kumar,8.51,Texas A&M University - College Station - Computer Science,60,5.0,0,163,152,3.5,315,24,26,24,26,100,reject
+Ishika Rastogi,8.62,Texas A&M University - College Station - Engineering Electrical and Computer,0,0.0,1,157,144,3.5,301,23,23,24,24,94,admit
+Manas Vyas,8.85,Texas A&M University - College Station - Mechanical Engineering,3,0.3,1,164,155,4.0,319,24,27,29,29,109,admit
+Venkata Abhinav Dusi,8.82,Texas A&M University - College Station - Computer Engineering - Electrical Engineering,0,0.0,0,159,147,4.0,306,23,25,21,23,92,admit
+Sree Charan Raj Duvva,9.06,Texas A&M University - College Station - Industrial Engineering,4,0.4,0,167,151,4.5,318,27,24,28,28,107,admit
+Srikant Nag,8.45,Texas A&M University - College Station - Computer Engineering,0,0.0,0,162,155,3.0,317,25,24,21,28,98,admit
+Sai Ram Naragoni,8.53,Texas A&M University - College Station - Computer Science,31,2.7,0,168,150,4.0,318,29,28,27,29,113,admit
+Jafar Sharif Shaik,8.4,Texas A&M University - College Station - Business Administration - Management Information Systems,48,4.0,0,167,153,3.0,320,24,29,26,30,109,admit
+Justine George,7.53,Texas A&M University - College Station - Computer Science,28,2.4,0,170,163,4.5,333,26,30,30,30,116,reject
+Navya Singla,9.37,Texas A&M University - College Station - Computer and Electrical Engineering,20,1.8,0,168,152,3.5,320,24,30,23,26,103,admit
+Mallikharjuna Rao Annam,8.54,Texas A&M University - College Station - Computer Science,36,3.0,2,160,152,3.0,312,17,23,24,29,93,reject
+Nikhil Panda,7.7,Texas A&M University - College Station - Computer Science,10,0.1,0,167,146,3.5,313,23,25,28,28,104,reject
+Sahil Singh,7.67,Texas A&M University - College Station - Electrical Engineering,18,1.6,1,167,147,3.0,314,24,29,22,23,98,reject
+Chinmay Chavan,8.02,Texas A&M University - College Station - Mechanical Engineering,30,2.6,1,169,157,4.0,326,23,30,23,29,105,admit
+Sudarshan Mane,7.49,Texas A&M University - College Station - Civil Engineering,12,1.0,0,161,144,3.5,305,21,25,25,26,97,reject
+Utkarsh Patil,8.25,Texas A&M University - College Station - Industrial Engineering,30,2.6,0,168,155,4.0,323,23,30,24,30,107,admit
+Shreshth Kushwaha,8.8,Texas A&M University - College Station - Management Information Systems,0,0.0,1,164,153,4.0,317,25,29,25,26,105,admit
+Aditya Kumar,7.88,Texas A&M University - College Station - Electrical Engineering,6,0.6,6,160,146,3.5,306,21,28,30,26,105,reject
+Suvarna T A,7.65,Texas A&M University - College Station - Engineering Electrical and Computer,36,3.0,0,161,150,4.0,311,22,27,24,29,102,reject
+Sushmita Pattanaik,8.4,Texas A&M University - College Station - Computer Science,65,5.5,0,164,155,3.0,319,21,29,27,29,106,admit
+Abhay P,7.98,Texas A&M University - College Station - Computer Science,6,0.6,14,159,138,3.0,297,24,23,21,24,92,reject
+Naresh Chowdary,8.26,Texas A&M University - College Station - Computer Science,0,0.0,0,170,153,2.0,323,19,29,22,30,100,admit
+Ravichandra Basireddy,9.95,Texas A&M University - College Station - Computer Science,16,1.4,0,162,142,3.0,304,20,24,23,28,95,reject
+Ajay Babu Gorantla,7.27,Texas A&M University - College Station - Computer Science,8,0.8,0,159,153,4.0,312,18,23,24,23,88,reject
+Dinesh Valasala,8.35,Texas A&M University - College Station - Computer Science,50,4.2,0,169,151,3.5,320,22,27,29,28,106,reject
+Sushanth Manivannan,9.06,Texas A&M University - College Station - Computer Engineering,1,0.1,0,165,158,4.0,323,29,25,27,30,111,admit
+Anurag Gupta,8.18,Texas A&M University - College Station - Information Systems (MIS),62,5.2,0,158,153,4.0,311,28,28,26,29,111,admit
+Aarohi Joshi,7.34,Texas A&M University - College Station - Business Administration - Management Information Systems,16,1.4,0,165,154,0.0,319,30,27,25,27,109,admit
+Leela Krishna Radarapu,7.18,Texas A&M University - College Station - Civil Engineering - Geotechnical Engineering,16,1.4,0,169,145,2.5,314,22,25,25,28,100,admit
+Dinesh B,7.38,Texas A&M University - College Station - Engineering Management,6,0.6,1,154,140,3.0,294,19,23,28,20,90,admit
+Aadharsh Hariharan,9.3,Texas A&M University - College Station - Electrical and Computer Engineering,18,1.6,1,164,149,3.5,313,26,29,27,28,110,admit
+Baasit Sharief,7.65,Texas A&M University - College Station - Computer Science,12,1.0,1,168,156,4.0,324,23,28,27,28,106,reject
+Abhishek Tadikonda,6.67,University of Illinois - Chicago - Business Analytics,0,0.0,0,167,161,4.0,328,17,27,23,27,94,admit
+Saloni Oswal,9.21,University of Illinois - Chicago - Computer Science,3,0.3,0,161,149,4.0,310,24,28,25,25,102,reject
+Arjun Aravind,8.75,University of Illinois - Chicago - Mechanical Engineering - Manufacturing,12,1.0,0,162,158,4.0,320,25,29,29,26,109,admit
+Ishan Patel,8.5,University of Illinois - Chicago - Electrical and Computer Engineering,1,0.1,3,162,147,3.5,309,24,22,26,24,96,admit
+Shashank Kandaala,7.74,University of Illinois - Chicago - Computer Science,4,0.4,1,168,146,3.5,314,23,29,28,25,105,admit
+Subhadip Ghosh,9.46,University of Illinois - Chicago - Electrical Engineering,0,0.0,2,167,147,3.5,314,23,25,23,25,96,admit
+Kiran Jojare,9.14,University of Illinois - Chicago - Electrical and Computer Engineering,36,3.0,0,158,139,3.5,297,25,24,22,19,90,reject
+Ranajit Roy,8.97,University of Illinois - Chicago - Computer Science,13,1.1,1,167,158,4.0,325,25,28,20,30,103,admit
+Manas M Bhat,7.7,University of Illinois - Chicago - Management Information Systems,38,3.2,6,169,151,4.0,320,25,29,26,27,107,admit
+Ruthwik B G,8.63,University of Illinois - Chicago - Computer Science,6,0.6,2,164,154,3.0,318,22,25,24,30,101,reject
+Aryak Bodkhe,3.42,University of Illinois - Chicago - Business Analytics - MS,5,0.5,4,159,143,3.5,302,26,27,25,23,101,admit
+Panuganti Jayanth Kumar,9.2,University of Illinois - Chicago - Electronic and Computer Engineering,1,0.1,1,167,154,3.5,321,20,26,24,26,96,admit
+Ravichandra Basireddy,9.95,University of Illinois - Chicago - Computer Science,16,1.4,0,162,142,3.0,304,20,24,23,28,95,reject
+Mehuli Sadhu,7.3,University of Illinois - Chicago - Biotechnology,2,0.2,0,161,148,4.5,309,25,30,29,30,114,admit
+Gargi Kulkarni,6.85,University of Illinois - Chicago - Business Analytics,33,2.9,0,149,153,3.5,302,28,25,29,25,107,admit
+Vishnu Rahul,7.4,University of Illinois - Chicago - Management Information Systems,55,4.7,0,159,143,4.0,302,23,26,26,25,100,admit
+Shubham Dwivedi,7.9,University of Illinois - Chicago - Management Information Systems,34,2.1,0,154,143,3.5,297,23,30,26,27,106,admit
+Aditya Malik,6.6,University of Illinois - Chicago - Computer Science,24,2.0,1,161,152,4.0,313,24,27,22,28,101,admit
+Kunal Rana,7.02,University of Illinois - Chicago - Industrial Engineering,0,0.0,1,154,144,3.0,298,23,25,26,24,98,reject
+Muthiah Muralidharan Saravanan,8.44,University of Illinois - Chicago - Mechanical Engineering,0,0.0,0,160,152,4.5,312,25,24,27,25,101,admit
+Megha Mn,9.0,University of Illinois - Chicago - Management Information Systems,42,3.6,0,158,143,2.5,301,30,20,23,20,93,admit
+Parth S,8.74,University of Illinois - Chicago - Computer Science,25,2.1,1,170,151,3.0,321,21,23,27,27,98,admit
+Ayush Chobe,8.72,University of Illinois - Chicago - Energy Science,14,1.2,0,161,143,3.0,304,19,20,25,19,83,admit
+Tanush Tripathi,8.2,University of Illinois - Chicago - Information Systems (MIS),24,2.0,1,160,146,4.0,306,22,25,24,23,94,admit
+Akshay Kumar D,7.7,University of Illinois - Chicago - Information Systems (MIS),26,2.2,0,153,152,3.0,305,22,26,23,26,97,admit
+Ashwini Kumar,9.05,University of Illinois - Chicago - Electrical Engineering,24,2.0,2,160,154,4.0,314,23,29,29,29,110,admit
+Chirag Singhal,7.31,University of Illinois - Chicago - Electronics and Instrumentation Engineering,24,2.0,0,164,152,3.5,316,20,21,20,26,87,admit
+Raj Yadav,7.5,University of Illinois - Chicago - Information Systems (MIS),0,0.0,0,165,155,4.0,320,24,28,27,27,106,admit
+Mausam Sheth,7.6,University of Illinois - Chicago - Exercise Sci/Kinesiology,0,0.0,1,162,150,4.0,312,26,30,26,28,110,admit
+Jay Patel,7.65,University of Illinois - Chicago - Industrial Engineering,0,0.0,0,151,149,2.5,300,21,24,24,21,90,admit
+Teddy Mendin,3.67,University of Illinois - Chicago - Public Health Administration,12,1.0,1,131,130,4.0,261,26,28,29,25,108,admit
+Ariq Rahman,3.64,University of Illinois - Chicago - Computer Science,8,0.8,1,162,153,2.5,315,25,21,24,26,96,reject
+Anonymous Explorer,3.47,University of Illinois - Chicago - Computer Science,24,2.0,8,166,150,4.5,316,26,23,29,27,105,reject
+Viraj Wani,6.3,University of Illinois - Chicago - Information Systems (MIS),1,0.1,0,163,147,3.5,310,22,20,22,24,88,admit
+Masoom Patel,8.47,University of Illinois - Chicago - Information Systems (MIS),2,0.2,0,156,144,4.0,300,28,24,22,27,101,admit
+Dhruvi Desai,7.75,University of Illinois - Chicago - Finance,32,2.8,0,160,148,3.5,308,29,29,27,26,111,reject
+Shipra Sinha,7.2,University of Illinois - Chicago - Information Systems (MIS),36,3.0,0,167,150,3.5,317,25,25,21,27,98,admit
+Puru Mair,9.1,University of Illinois - Chicago - Industrial Engineering,0,0.0,0,163,149,4.0,312,27,25,28,20,100,admit
+Rohit Nakashe,9.0,North Carolina State University - Raleigh - Computer Engineering,0,0.0,0,160,143,3.0,303,20,24,22,21,87,admit
+Aditya Kumar,7.88,North Carolina State University - Raleigh - Electrical and Computer Engineering,6,0.6,6,160,146,3.5,306,21,28,30,26,105,admit
+Shaurya Rawat,3.71,North Carolina State University - Raleigh - Computer Science,3,0.3,2,168,158,5.0,326,22,28,30,30,110,admit
+Megha Chandra,3.94,North Carolina State University - Raleigh - Electrical and Computer Engineering,0,0.0,4,166,155,3.5,321,22,30,28,30,110,admit
+Harish Balasubramaniam,3.41,North Carolina State University - Raleigh - Computer Science,5,0.5,2,165,153,4.0,318,26,30,28,28,112,reject
+Amey Dashaputre,8.1,North Carolina State University - Raleigh - Computer Engineering,40,3.4,1,154,148,3.0,302,23,24,25,22,94,admit
+Jai Iyer,9.4,North Carolina State University - Raleigh - Computer Engineering,6,0.6,1,162,139,3.0,301,25,25,25,25,100,admit
+Harish Kannadasan,8.06,SUNY - University at Buffalo - Finance - MS,0,0.0,0,156,149,2.5,305,20,26,20,23,89,admit
+Vishal Kulkarni,9.03,SUNY - University at Buffalo - Computer Science,34,2.1,0,165,150,4.0,315,26,27,28,25,106,admit
+Nikhil Panda,7.7,SUNY - University at Buffalo - Engineering Science,10,0.1,0,167,146,3.5,313,23,25,28,28,104,admit
+Sneha Giranje,7.9,SUNY - University at Buffalo - Data Science and Analytics,12,1.0,0,161,147,3.5,308,22,24,27,26,99,admit
+Ishika Rastogi,8.62,SUNY - University at Buffalo - Electrical Engineering,0,0.0,1,157,144,3.5,301,23,23,24,24,94,admit
+Kunkunuri Koushik,7.95,SUNY - University at Buffalo - Data Science and Engineering,12,1.0,0,165,155,3.0,320,21,27,21,25,94,admit
+Gopal R,8.35,SUNY - University at Buffalo - Computer Science,12,1.0,1,162,156,3.5,318,28,28,28,28,112,admit
+Sahithi Arekatla,8.96,SUNY - University at Buffalo - Artificial Intelligence,0,0.0,0,161,139,3.5,300,28,22,23,24,97,admit
+Sarthak Chawathe,7.95,SUNY - University at Buffalo - Data Science,18,1.6,1,156,144,3.5,300,24,22,23,25,94,admit
+Aanchal Sahu,8.95,SUNY - University at Buffalo - Artificial Intelligence,5,0.5,5,157,157,4.5,314,26,28,29,26,109,admit
+Chetan Sahrudhai Kimidi,9.36,SUNY - University at Buffalo - Computer Science,3,0.3,0,165,150,4.0,315,25,28,27,29,109,reject
+Rammanoj Potla,9.38,SUNY - University at Buffalo - Computer Science,20,1.8,1,164,143,3.5,307,27,26,25,26,104,reject
+Tanmay Jain,8.9,SUNY - University at Buffalo - Computer Science and Engineering,0,0.0,0,163,148,3.5,311,23,26,24,20,93,reject
+Pratyush Sahu,8.05,SUNY - University at Buffalo - Engineering Science,34,2.1,1,160,140,3.0,300,24,25,28,21,98,admit
+Anuj Mahajan,8.99,SUNY - University at Buffalo - Computer Science,30,2.6,1,160,151,3.0,311,25,27,24,27,103,reject
+Pranav B P,7.3,SUNY - University at Buffalo - Computer Science and Engineering,18,1.6,0,154,146,3.0,300,29,27,23,27,106,admit
+Rahul Reddy,9.0,SUNY - University at Buffalo - Computer Science,4,0.4,3,170,161,4.5,331,20,20,16,20,76,admit
+Kamran Adil,7.2,SUNY - University at Buffalo - Computer Science,62,5.2,0,150,144,3.5,294,28,28,22,28,106,reject
+Akshay Viswanathan,8.05,SUNY - University at Buffalo - Computer Science,30,2.6,1,168,152,4.0,320,27,28,27,28,110,admit
+Mohit Vaidya,8.56,SUNY - University at Buffalo - Electrical Engineering,0,0.0,0,159,158,4.5,317,28,27,27,30,112,admit
+Sai Ram Naragoni,8.53,SUNY - University at Buffalo - Computer Science,31,2.7,0,168,150,4.0,318,29,28,27,29,113,admit
+Charansai Sadla,8.7,SUNY - University at Buffalo - Computer Science and Engineering,0,0.0,0,167,157,4.0,324,25,26,21,18,90,admit
+Pratyush Sahu,8.05,SUNY - University at Buffalo - Computer Science,34,2.1,1,160,140,3.0,300,24,25,28,21,98,reject
+Mallikharjuna Rao Annam,8.54,SUNY - University at Buffalo - Computer Science,36,3.0,2,160,152,3.0,312,17,23,24,29,93,admit
+Ijaj Ahmed,8.3,SUNY - University at Buffalo - Computer Science,48,4.0,1,162,146,3.0,308,23,24,22,23,92,admit
+Sudarshan Mane,7.49,SUNY - University at Buffalo - Civil Engineering,12,1.0,0,161,144,3.5,305,21,25,25,26,97,reject
+Aditya Kumar,7.88,SUNY - University at Buffalo - Electrical Engineering,6,0.6,6,160,146,3.5,306,21,28,30,26,105,admit
+Panuganti Jayanth Kumar,9.2,SUNY - University at Buffalo - Electrical Engineering,1,0.1,1,167,154,3.5,321,20,26,24,26,96,admit
+Rishabh Singh,8.23,SUNY - University at Buffalo - Robotics,13,1.1,1,162,146,3.5,308,25,24,20,23,92,admit
+Nishant Dave,9.52,SUNY - University at Buffalo - Computer Science,4,0.4,3,168,150,4.0,318,26,27,30,29,112,admit
+Oorja Shetty,8.53,SUNY - University at Buffalo - Civil Engineering: Environmental and Water Resources Engineering,2,0.2,1,153,143,3.5,296,21,27,26,23,97,admit
+Manas M Bhat,7.6,SUNY - University at Buffalo - Management Information Systems,38,3.2,6,169,151,4.0,320,25,29,26,27,107,admit
+Pathapati Jyoshna,8.51,SUNY - University at Buffalo - Applied Data Science,10,0.1,0,170,160,3.0,330,20,28,21,28,97,admit
+Ruthwik B G,8.63,SUNY - University at Buffalo - Computer Science,6,0.6,2,164,154,3.0,318,22,25,24,30,101,admit
+Venkatesh Madasu,7.07,SUNY - University at Buffalo - Computer Science,84,7.0,2,161,146,3.0,307,23,28,24,28,103,admit
+Rama Narasimhan,8.03,SUNY - University at Buffalo - Computer Science,38,3.2,0,168,155,4.0,323,21,26,27,30,104,admit
+Swapnil Bambale,7.12,SUNY - University at Buffalo - Industrial Engineering and Operations Research,48,4.0,0,165,161,4.0,326,25,25,25,25,100,admit
+Akash Sooriya Moorthy,7.47,SUNY - University at Buffalo - Industrial Engineering,1,0.1,1,160,152,3.0,312,19,25,24,29,97,admit
+Kalpitha Bekal,9.26,SUNY - University at Buffalo - Computer Science,24,2.0,0,157,152,3.5,309,24,27,23,28,102,admit
+Abhishek Keripale,7.49,SUNY - University at Buffalo - Mechanical Engineering,2,0.2,1,155,147,3.0,302,22,25,28,21,96,admit
+Gaurav Chattree,8.6,SUNY - University at Buffalo - Data Science,36,3.0,1,167,155,3.0,322,25,29,22,28,104,admit
+Mehuli Sadhu,7.3,SUNY - University at Buffalo - Biotechnology,2,0.2,0,161,148,4.5,309,25,30,29,30,114,reject
+Dinesh Valasala,8.35,SUNY - University at Buffalo - Computer Science,50,4.2,0,169,151,3.5,320,22,27,29,28,106,admit
+Vadada Venkata Naga Dinesh,7.0,SUNY - University at Buffalo - Applied Data Science,14,1.2,0,168,155,4.0,323,22,28,25,27,102,admit
+Leela Krishna Radarapu,7.18,SUNY - University at Buffalo - Civil Engineering,16,1.4,0,169,145,2.5,314,22,25,25,28,100,admit
+Seema P L,6.77,SUNY - University at Buffalo - Electrical Engineering,0,0.0,0,153,140,3.0,293,21,23,18,21,83,reject
+Ankit Darekar,6.37,SUNY - University at Buffalo - Computer Science,30,2.6,0,156,147,4.0,303,24,21,25,27,97,reject
+Ketan Singhvi,7.0,SUNY - University at Buffalo - Industrial Engineering,15,1.3,1,156,145,3.0,301,23,25,23,22,93,admit
+Shantanu Ojha,7.22,SUNY - University at Buffalo - Computer Science,0,0.0,0,169,152,3.0,321,22,20,23,20,85,reject
+Ajay Babu Gorantla,7.27,SUNY - University at Buffalo - Computer Science,8,0.8,0,159,153,4.0,312,18,23,24,23,88,reject
+Swarnangshu Ghosh,7.7,SUNY - University at Buffalo - Civil Engineering,0,0.0,3,165,155,4.0,320,28,28,28,30,114,admit
+Pradyumna Ghosh,7.89,SUNY - University at Buffalo - Industrial Engineering,36,3.0,0,157,145,3.0,302,18,22,20,19,79,admit
+Deepthi Chowbene,7.68,SUNY - University at Buffalo - Biomedical Engineering,0,0.0,1,156,152,4.0,308,28,30,28,27,113,admit
+Adikavya Gupta,7.7,SUNY - University at Buffalo - Computer Engineering,0,0.0,0,159,151,4.0,310,30,27,28,24,109,admit
+Shreya Maqtedar,7.18,SUNY - University at Buffalo - Data Science,3,0.3,0,154,147,3.0,301,23,26,25,26,100,admit
+Sayantan Das,8.39,SUNY - University at Buffalo - Computer Science,3,0.3,2,163,154,4.0,317,23,29,26,28,106,admit
+Naveen Senthil Kumar,9.1,SUNY - University at Buffalo - Data Science,3,0.3,1,161,142,3.5,303,24,22,26,21,93,admit
+Baasit Sharief,7.65,SUNY - University at Buffalo - Computer Science,12,1.0,1,168,156,4.0,324,23,28,27,28,106,admit
+Akshay Kumar D,7.7,SUNY - University at Buffalo - Information Systems (MIS),26,2.2,0,153,152,3.0,305,22,26,23,26,97,admit
+Tanush Tripathi,8.2,SUNY - University at Buffalo - Computer Science,24,2.0,1,160,146,4.0,306,22,25,24,23,94,admit
+Vinay Urlam,8.1,SUNY - University at Buffalo - Computer Science,14,1.2,0,166,150,4.0,316,26,23,21,21,91,admit
+Ashwini Kumar,9.05,SUNY - University at Buffalo - Computer Science,24,2.0,2,160,154,4.0,314,23,29,29,29,110,admit
+Dinesh B,7.38,SUNY - University at Buffalo - Engineering Management,6,0.6,1,154,140,3.0,294,19,23,28,20,90,admit
+Prithvi Dev K V,7.97,SUNY - University at Buffalo - Mechanical Engineering,6,0.6,0,159,150,3.5,309,23,29,23,29,104,admit
+Illavenil Prabhakaran,8.64,SUNY - University at Buffalo - Data Science,5,0.5,0,163,151,3.5,314,25,28,23,26,102,admit
+Abdul Aziz,6.69,SUNY - University at Buffalo - Industrial Engineering,40,3.4,0,165,132,3.0,297,27,26,26,19,98,admit
+S Kota,8.0,SUNY - University at Buffalo - Data Science,37,3.1,1,158,146,4.0,304,27,18,20,18,83,admit
+Shantanu Mahendru,6.52,SUNY - University at Buffalo - Information Systems (MIS),36,3.0,0,162,155,4.5,317,26,27,28,25,106,admit
+Vidhya Suresh,9.37,SUNY - University at Buffalo - Computer Science,0,0.0,1,160,149,3.0,309,26,22,25,27,100,admit
+Dhruvi Desai,7.7,SUNY - University at Buffalo - Finance,32,2.8,0,160,148,3.5,308,29,29,27,26,111,admit
+Puru Mair,9.1,SUNY - University at Buffalo - Industrial Engineering,0,0.0,0,163,149,4.0,312,27,25,28,20,100,admit
+Rahul Shenoy,7.19,SUNY - University at Buffalo - Industrial Engineering,33,2.9,2,158,150,3.5,308,26,29,25,26,106,admit
+Atharva Adbe,8.9,SUNY - University at Buffalo - Data Science,2,0.2,0,161,149,3.5,310,25,21,22,20,88,admit
+Rsj Singh,9.0,SUNY - University at Buffalo - Computer Science,6,0.6,0,163,156,5.0,319,30,30,28,25,113,admit
+Vishnu Sreenivas,7.04,SUNY - University at Buffalo - Data Science,2,0.2,0,162,152,5.5,314,28,28,27,28,111,admit
+Sudhir Garg,9.2,SUNY - University at Buffalo - Computer Science,0,0.0,0,164,154,3.0,318,22,30,23,29,104,admit
+Akshay Deshpande,7.35,SUNY - University at Buffalo - Computer Science,18,1.6,0,165,151,4.0,316,28,28,26,27,109,admit
+Venkata Laxmana Srikanth Bharam,8.84,University of Texas - Arlington - Masters Information Systems,55,4.7,0,157,143,3.5,300,23,16,22,23,84,admit
+Akhil Gunigunty,6.68,University of Texas - Arlington - Masters Information Systems,0,0.0,0,157,154,2.0,311,19,24,23,28,94,reject
+Subhash Y,7.75,University of Texas - Arlington - Civil Engineering Construction Management,0,0.0,0,155,146,3.5,301,23,18,22,22,85,admit
+Pratyush Sahu,8.05,University of Texas - Arlington - Computer Science,34,2.1,1,160,140,3.0,300,24,25,28,21,98,admit
+Pritesh Ambavane,8.14,University of Texas - Arlington - Computer Science,28,2.4,1,153,142,3.0,295,25,25,26,21,97,admit
+Parth Gulavani,7.82,University of Texas - Arlington - Information Systems (MIS),5,0.5,0,161,151,4.0,312,26,27,27,26,106,admit
+Swaraj Mohapatra,7.95,University of Texas - Arlington - Engineering Management,6,0.6,0,165,149,2.5,314,25,30,23,27,105,admit
+Anil Antony K,7.55,University of Texas - Arlington - Mechanical Engineering,5,0.5,1,160,156,4.0,316,25,29,27,28,109,admit
+Nidhish Ramani,7.36,University of Texas - Arlington - Master of Engineering Management,36,3.0,0,165,160,3.5,325,18,27,22,27,94,admit
+Nishank Tiwari,7.73,University of Texas - Arlington - Computer Science,6,0.6,0,154,147,3.5,301,23,25,25,20,93,admit
+Itha Vineeth,8.0,University of Texas - Arlington - Computer Science,24,2.0,0,161,145,3.0,306,23,18,22,24,87,admit
+Harsh Jain,8.97,University of Texas - Arlington - Computer Science,0,0.0,1,169,141,3.5,310,22,21,20,20,83,admit
+Abhishek Keripale,7.49,University of Texas - Arlington - Mechanical and Aerospace Engineering,2,0.2,1,155,147,3.0,302,22,25,28,21,96,admit
+Sagar Gottipati,6.33,University of Texas - Arlington - Computer Science,33,2.9,0,160,151,3.0,311,21,28,21,24,94,admit
+Dinesh Valasala,8.35,University of Texas - Arlington - Computer Science,50,4.2,0,169,151,3.5,320,22,27,29,28,106,reject
+Sila Muremwa,7.05,University of Texas - Arlington - Industrial Engineering,13,1.1,0,130,146,4.0,276,22,23,20,24,89,admit
+Madhu Alla,8.9,University of Texas - Arlington - Computer Science,6,0.6,1,165,145,4.0,310,24,28,25,26,103,admit
+Pradyumna Ghosh,7.89,University of Texas - Arlington - Industrial Engineering,36,3.0,0,157,145,3.0,302,18,22,20,19,79,admit
+Neil Tuscano,5.6,University of Texas - Arlington - Information Systems (MIS),0,0.0,0,153,138,3.5,291,24,23,21,24,92,admit
+Shubham Choudhary,7.01,University of Texas - Arlington - Computer Science,0,0.0,0,150,140,3.5,290,23,17,26,21,87,admit
+Vishal Juvekar,8.82,University of Texas - Arlington - Construction Management,5,0.5,0,154,142,3.0,296,25,24,23,23,95,admit
+Malavika Krishnan,7.42,University of Texas - Arlington - Computer Science,28,2.4,0,155,153,3.5,308,26,26,26,24,102,admit
+Pallav Sah,8.32,University of Texas - Arlington - Electrical Engineering,0,0.0,0,154,135,2.5,289,20,22,20,22,84,reject
+Abdullah Osaf,3.1,University of Texas - Arlington - Mechanical Engineering,3,0.3,1,153,155,4.0,308,26,22,23,24,95,admit
+Jay Patel,7.65,University of Texas - Arlington - Industrial Engineering,0,0.0,0,151,149,2.5,300,21,24,24,21,90,admit
+Jasmin Jose,8.04,University of Texas - Arlington - Electrical Engineering,32,2.8,0,163,148,3.0,311,21,23,25,23,92,admit
+Saranya Ravva,8.5,University of Texas - Arlington - Aerospace Engineering,0,0.0,0,158,149,3.5,307,24,24,22,22,92,admit
+Anonymous Explorer,3.47,University of Texas - Arlington - Computer Science,24,2.0,8,166,150,4.5,316,26,23,29,27,105,admit
+Devki Desai,8.06,University of Texas - Arlington - Computer Science,0,0.0,0,170,155,4.0,325,27,27,30,26,110,reject
+Harshawardhan Kumar Unsasi,8.88,Columbia University - Mechanical Engineering - Automation and Robotic Systems,3,0.3,2,168,149,3.5,317,28,23,23,27,101,admit
+Romit Ganjoo,9.33,Columbia University - Electrical Engineering,12,1.0,3,166,154,4.0,320,28,24,24,28,104,admit
+Sagnik Ghosal,9.1,Columbia University - Data Science,6,0.6,3,169,154,5.0,323,27,30,27,29,113,reject
+Sayantan Pal,8.73,Columbia University - Computer Science,42,3.6,0,162,165,3.5,327,27,28,28,30,113,reject
+Zac Spectre,7.72,Columbia University - Data Science (MSc),48,4.0,0,166,155,4.0,321,25,26,28,24,103,reject
+Arpit Patil,9.74,Columbia University - Computer Science,6,0.6,2,167,147,4.0,314,23,27,26,29,105,reject
+Aditya Jolly,9.23,Columbia University - Electrical Engineering,0,0.0,2,170,153,4.5,323,28,29,27,29,113,admit
+Sushanth Manivannan,9.06,Columbia University - Computer Engineering,1,0.1,0,165,158,4.0,323,29,25,27,30,111,reject
+Atul Balaji,8.37,Columbia University - Computer Science,10,0.1,1,169,162,4.0,331,29,30,27,30,116,admit
+Prerit Jain,9.22,Columbia University - Data Science,36,3.0,0,168,160,4.0,328,24,28,23,27,102,admit
+Nikhil Madaan,9.63,Columbia University - Computer Science,18,1.6,1,170,162,4.0,332,28,29,29,29,115,admit
+Sittun Prakash,8.3,Columbia University - Data Science,20,1.8,0,167,164,5.0,331,30,30,30,30,120,admit
+Saharsh Aggarwal,8.21,Columbia University - Electrical Engineering,7,0.7,1,170,161,4.5,331,29,30,27,30,116,admit
+Shailee Maheshwari,6.32,Columbia University - Economics,32,2.8,0,165,147,3.5,312,26,26,25,22,99,reject
+Rajkishore Rajasekar,9.01,Columbia University - Mechanical Engineering,14,1.2,0,167,156,4.0,323,26,30,27,29,112,admit
+Rohit Kumar Putcha,9.12,Columbia University - Computer Science,32,2.8,0,169,151,3.5,320,27,26,25,26,104,reject
+Manohar A,8.27,Columbia University - Data Science,51,4.3,0,166,152,3.5,318,25,27,30,26,108,reject
+Megha Chandra,9.36,University of Washington - Electrical and Computer Engineering,0,0.0,4,166,155,3.5,321,22,30,28,30,110,admit
+Vinutha Ananth,9.03,University of Washington - Computer Science,40,3.4,0,150,155,4.0,305,29,30,28,28,115,reject
+Jai Iyer,9.37,University of Washington - Electrical Engineering,6,0.6,1,162,139,3.0,301,25,25,25,25,100,reject
+Deepak Ayyalasomayajula,8.67,University of California - Los Angeles - Materials Science and Engineering,18,1.6,3,167,158,4.0,325,24,29,23,29,105,admit
+Harsh Agrawal,8.91,University of California - Los Angeles - Computer Science,2,0.2,3,163,155,4.0,318,28,30,27,30,115,reject
+Shaurya Gomber,9.66,University of California - Los Angeles - Computer Science,18,1.6,0,169,157,4.0,326,28,30,27,30,115,reject
+Arjun Aravind,8.75,University of California - Los Angeles - Mechanical Engineering - Manufacturing,12,1.0,0,162,158,4.0,320,25,29,29,26,109,reject
+Bharat S,9.6,University of California - Los Angeles - Mechanical Engineering,4,0.4,1,151,161,4.0,312,30,26,30,26,112,admit
+Sahil Singh,9.26,University of California - Los Angeles - Data Science,5,0.5,0,166,159,4.0,325,24,27,30,29,110,admit
+Visaj Shah,8.09,University of California - Los Angeles - Computer Science,0,0.0,2,170,158,5.0,328,27,29,30,30,116,reject
+Kartikeya Syal,9.14,University of California - Los Angeles - Business Analytics - MS,18,1.6,0,170,152,4.0,322,25,29,27,28,109,admit
+Sunand Agarwal,8.48,University of California - Los Angeles - Computer Science,24,2.0,0,170,160,4.5,330,25,29,27,30,111,reject
+Sushanth Manivannan,9.06,University of California - Los Angeles - Electrical and Computer Engineering,1,0.1,0,165,158,4.0,323,29,25,27,30,111,reject
+Saharsh Aggarwal,8.21,University of California - Los Angeles - Electrical and Computer Engineering,7,0.7,1,170,161,4.5,331,29,30,27,30,116,reject
+Shailee Maheshwari,6.32,University of California - Los Angeles - Economics,32,2.8,0,165,147,3.5,312,26,26,25,22,99,admit
+Tanay Dhaka,6.77,University of California - Los Angeles - Business Analytics,26,2.2,0,169,153,3.0,322,28,20,24,26,98,reject
+Atharva Pradhan,9.43,University of Michigan - Ann Arbor - Mechanical Engineering,0,0.0,0,167,144,3.5,311,26,29,25,27,107,reject
+Yash Paliwal,8.2,University of Michigan - Ann Arbor - Robotics,3,0.3,0,169,160,3.0,329,23,28,21,25,97,reject
+Shaurya Gomber,9.66,University of Michigan - Ann Arbor - Computer Science,18,1.6,0,169,157,4.0,326,28,30,27,30,115,reject
+Arjun Sharma,8.73,University of Michigan - Ann Arbor - Data Science,18,1.6,5,169,155,5.5,324,30,30,30,30,120,reject
+Suraj Nair,8.48,University of Michigan - Ann Arbor - Mechanical Engineering,4,0.4,0,161,166,3.5,327,28,30,28,25,111,reject
+Ritesh Choudhary,8.1,University of Michigan - Ann Arbor - Data Science,7,0.7,4,154,146,4.0,300,27,20,22,22,91,reject
+Sree Charan Raj Duvva,9.06,University of Michigan - Ann Arbor - Industrial Engineering and Operations Research,4,0.4,0,167,151,4.5,318,27,24,28,28,107,reject
+Mihir Ahlawat,8.22,University of Michigan - Ann Arbor - Data Science,24,2.0,1,169,152,4.5,321,26,30,25,27,108,admit
+Ashutosh Mangle,8.78,University of Michigan - Ann Arbor - Civil Engineering - Construction Engineering and Management,27,2.3,0,160,150,4.0,310,24,27,29,28,108,admit
+Aryak Sathye,8.96,University of Michigan - Ann Arbor - Aerospace Engineering,2,0.2,0,169,165,4.5,334,24,30,29,30,113,admit
+Sayantan Pal,8.73,University of Michigan - Ann Arbor - Computer Science,42,3.6,0,162,165,3.5,327,27,28,28,30,113,reject
+Navya Singla,9.37,University of Michigan - Ann Arbor - Computer and Electrical Engineering,20,1.8,0,168,152,3.5,320,24,30,23,26,103,reject
+Rishabh Singh,8.23,University of Michigan - Ann Arbor - Robotics,13,1.1,1,162,146,3.5,308,25,24,20,23,92,reject
+Prabin Rath,8.91,University of Michigan - Ann Arbor - Robotics,24,2.0,6,167,160,3.5,327,25,29,26,24,104,reject
+Chetan Kumar,8.0,University of Michigan - Ann Arbor - Robotics,0,0.0,0,164,164,2.5,328,23,30,21,27,101,reject
+Saharsh Aggarwal,8.21,University of Michigan - Ann Arbor - Electrical and Computer Engineering,7,0.7,1,170,161,4.5,331,29,30,27,30,116,reject
+Rakshit Shetty,9.3,University of Michigan - Ann Arbor - Computer Science,18,1.6,0,160,152,3.5,312,26,26,27,29,108,reject
+Nikhil Madaan,9.63,University of Michigan - Ann Arbor - Electrical and Computer Engineering,18,1.6,1,170,162,4.0,332,28,29,29,29,115,admit
+Ronald Sharma,7.75,University of Michigan - Ann Arbor - Computer Science,28,2.4,2,167,153,4.0,320,25,26,29,27,107,reject
+Subham Nandy,7.36,University of Michigan - Ann Arbor - Business,24,2.0,0,165,165,5.0,330,30,30,30,30,120,reject
+Aaqib Mir,7.53,University of Michigan - Ann Arbor - Construction Management,84,7.0,1,159,155,3.5,314,28,29,26,28,111,admit
+Mausam Sheth,7.58,University of Michigan - Ann Arbor - Exercise Sci/Kinesiology,0,0.0,1,162,150,4.0,312,26,30,26,28,110,admit
+Gaurav Patel,8.91,University of Michigan - Ann Arbor - Electrical Engineering,0,0.0,1,161,151,3.0,312,23,25,24,26,98,reject
+Shrinivas Katkam,8.34,University of Michigan - Ann Arbor - Chemical Engineering,0,0.0,0,161,153,3.5,314,26,28,25,24,103,admit
+Atharva Pradhan,9.43,Northeastern University - Robotics,0,0.0,0,165,150,4.0,315,26,29,25,27,107,admit
+Shyamala Venkatakrishnan,8.72,Northeastern University - Data Analytics,60,5.0,0,159,151,3.5,310,23,19,23,23,88,admit
+Swadhin Routray,9.19,Northeastern University - Computer Science,8,0.8,2,164,153,4.0,317,25,29,28,29,111,admit
+Saaketh Chaganty,6.55,Northeastern University - Masters Information Systems,14,1.2,1,159,144,4.0,303,26,24,26,24,100,admit
+Venkata Abhinav Dusi,8.82,Northeastern University - Robotics,0,0.0,0,159,147,4.0,306,23,25,21,23,92,admit
+Chinmay Prashanth,8.0,Northeastern University - Robotics,0,0.0,0,165,148,3.5,313,23,28,28,26,105,admit
+Subham Kumar,8.51,Northeastern University - Computer Science,60,5.0,0,163,152,3.5,315,24,26,24,26,100,admit
+Ishika Rastogi,8.62,Northeastern University - Electrical Engineering,0,0.0,1,157,144,3.5,301,23,23,24,24,94,admit
+Hamzah Mukadam,6.35,Northeastern University - Information Systems (MIS),14,1.2,1,156,150,4.0,306,28,28,28,27,111,admit
+Ranajit Roy,8.97,Northeastern University - Computer Science,13,1.1,1,167,158,4.0,325,25,28,20,30,103,reject
+Sharath Kamlekar,9.8,Northeastern University - Computer Science,20,1.8,0,168,162,4.5,330,27,29,26,28,110,admit
+Ritesh Choudhary,8.1,Northeastern University - Data Analytics Engineering,7,0.7,4,154,146,4.0,300,27,20,22,22,91,admit
+Kruthika Kolume,8.49,Northeastern University - Management Information Systems,12,1.0,1,160,149,3.5,309,25,29,29,25,108,admit
+Bharat S,9.6,Northeastern University - Mechanical Engineering,4,0.4,1,151,161,4.0,312,30,26,30,26,112,admit
+Aravind P V,8.26,Northeastern University - Computer Science,0,0.0,2,161,153,4.0,314,25,30,26,28,109,reject
+Ritesh Choudhary,8.1,Northeastern University - Software Systems Engineering,7,0.7,4,154,146,4.0,300,27,20,22,22,91,admit
+Harsh Naik,7.7,Northeastern University - Masters Information Systems,8,0.8,0,163,153,3.0,316,19,28,30,27,104,admit
+Sai Dutt,6.21,Northeastern University - Information Systems (MIS),36,3.0,1,157,161,3.0,318,26,28,26,30,110,admit
+Tulaja Chada,7.67,Northeastern University - Industrial Engineering,6,0.6,1,164,148,4.0,312,26,30,25,24,105,admit
+Sree Charan Raj Duvva,9.06,Northeastern University - Industrial Engineering,4,0.4,0,167,151,4.5,318,27,24,28,28,107,admit
+Swaraj Mohapatra,7.95,Northeastern University - Engineering Management,6,0.6,0,165,149,2.5,314,25,30,23,27,105,admit
+Suraj Patil,9.13,Northeastern University - Industrial Engineering,0,0.0,0,164,145,3.0,309,24,26,23,27,100,admit
+Rituparna Desai,8.94,Northeastern University - Information Systems (MIS),20,1.8,3,155,152,4.0,307,25,27,28,28,108,admit
+Sahil Mondal,9.72,Northeastern University - Computer Science,8,0.8,1,161,153,4.5,314,25,28,29,26,108,admit
+Paurush Batish,8.44,Northeastern University - Computer Science,11,0.11,0,163,155,4.5,318,27,27,25,25,104,admit
+Sarthak Chawathe,7.95,Northeastern University - Information Systems - Business Intelligence/Data Analytics,18,1.6,1,156,144,3.5,300,24,22,23,25,94,admit
+Pranav Kapoor,8.67,Northeastern University - Software Engineering,12,1.0,3,161,152,4.0,313,24,26,24,25,99,admit
+Pranav B P,7.3,Northeastern University - Computer Science,18,1.6,0,154,146,3.0,300,29,27,23,27,106,reject
+Tyler Thomas,7.6,Northeastern University - Computer Science,18,1.6,3,169,150,4.5,319,26,29,27,28,110,reject
+Sanskar Tewatia,8.96,Northeastern University - Data Science,12,1.0,0,166,153,3.0,319,25,25,27,28,105,reject
+Sam S,9.0,Northeastern University - Computer Science,8,0.8,1,164,154,3.5,318,23,28,23,26,100,admit
+Sai Ram Naragoni,8.53,Northeastern University - Computer Science,31,2.7,0,168,150,4.0,318,29,28,27,29,113,admit
+Apratim Shukla,9.19,Northeastern University - Computer Science,20,1.8,3,165,155,4.5,320,28,27,28,30,113,admit
+Pranav Reddy,7.6,Northeastern University - Computer Science,4,0.4,1,166,157,3.0,323,23,30,27,29,109,reject
+Siddhant Poojary,8.86,Northeastern University - Computer Science,0,0.0,0,169,156,4.0,325,25,27,28,30,110,reject
+Sanjay Prabhakar,8.3,Northeastern University - Artificial Intelligence,0,0.0,0,170,160,4.0,330,23,29,25,27,104,admit
+Akshat Bakliwal,7.74,Northeastern University - Computer Science,6,0.6,1,165,146,3.0,311,22,29,21,23,95,reject
+Aishwarya Sasane,7.75,Northeastern University - Management Information Systems,30,2.6,0,163,152,4.0,315,27,30,28,29,114,admit
+Poojan Panchal,9.7,Northeastern University - Artificial Intelligence,21,1.9,3,168,145,3.0,313,24,30,20,23,97,admit
+Gaurav Koradiya,9.82,Northeastern University - Artificial Intelligence,33,2.9,0,169,156,3.0,325,21,30,29,27,107,reject
+Ankur Banerji,9.61,Northeastern University - Computer Science,3,0.3,0,165,147,3.5,312,30,27,23,23,103,reject
+Harsh Agrawal,8.91,Northeastern University - Computer Science,2,0.2,3,163,155,4.0,318,28,30,27,30,115,admit
+Priyansh Zalavadiya,8.5,Northeastern University - Data Science,30,2.6,0,166,156,3.0,322,20,29,28,28,105,reject
+Anirudh Gaur,8.21,Northeastern University - Data Science,6,0.6,0,168,158,3.5,326,23,25,24,29,101,reject
+Kartik Soni,9.3,Northeastern University - Computer Science,3,0.3,3,168,162,4.5,330,24,30,30,28,112,admit
+Tanmay Kapoor,9.33,Northeastern University - Computer Science,4,0.4,0,167,157,5.0,324,29,29,29,27,114,admit
+Sudarshan Chaudhari,7.41,Northeastern University - Computer Science,29,2.5,2,169,152,3.5,321,23,27,26,24,100,admit
+Samanvitha S,9.49,Northeastern University - Computer Science,6,0.6,1,164,154,4.5,318,28,29,25,29,111,reject
+Sarthak Dalal,8.8,Northeastern University - Computer Science,0,0.0,3,168,149,5.0,317,28,27,30,29,114,reject
+Yuvraj Rana,7.99,Northeastern University - Artificial Intelligence,7,0.7,0,163,148,3.0,311,28,28,24,29,109,reject
+Aditya Acharya,8.54,Northeastern University - Computer Science,30,2.6,0,159,149,4.0,308,29,30,29,27,115,reject
+Yuvraj Rana,7.99,Northeastern University - Computer Science,7,0.7,0,163,148,3.0,311,28,28,24,29,109,reject
+Mrunal Suryavanshi,8.3,Northeastern University - Health Informatics,2,0.2,0,164,156,4.0,320,27,30,29,29,115,admit
+Rammanoj Potla,9.38,Northeastern University - Computer Science,20,1.8,1,164,143,3.5,307,27,26,25,26,104,admit
+Megha Chandra,9.36,Northeastern University - Electrical and Computer Engineering,0,0.0,4,166,155,3.5,321,22,30,28,30,110,admit
+Visaj Shah,8.09,Northeastern University - Computer Science,0,0.0,2,170,158,5.0,328,27,29,30,30,116,reject
+Pratyush Sahu,8.05,Northeastern University - Computer Science,34,2.1,1,160,140,3.0,300,24,25,28,21,98,reject
+Maria Anson,8.32,Northeastern University - Artificial Intelligence,15,1.3,0,155,150,4.0,305,24,29,26,28,107,admit
+Gangey Patel,9.16,Northeastern University - Computer Science,5,0.5,0,166,149,3.5,315,23,26,25,28,102,admit
+Amartya Kalapahar,8.96,Northeastern University - Computer Science,13,1.1,1,166,142,4.0,308,25,25,30,27,107,admit
+Varun Agarwal,8.37,Northeastern University - Computer Science,20,1.8,2,167,150,3.5,317,25,25,30,24,104,admit
+Nikhil Panda,7.7,Northeastern University - Computer Science,10,0.1,0,167,146,3.5,313,23,25,28,28,104,reject
+Dantla Deepak Swarna Barath,8.3,Northeastern University - Computer Science,12,1.0,0,146,144,3.0,290,22,26,23,25,96,reject
+Rishabh Singh,8.23,Northeastern University - Robotics,13,1.1,1,162,146,3.5,308,25,24,20,23,92,admit
+Aryak Bodkhe,8.12,Northeastern University - Data Analytics,5,0.5,4,159,143,3.5,302,26,27,25,23,101,admit
+Keval Shah,8.26,Northeastern University - Data Analytics Engineering,6,0.6,2,164,150,3.0,314,22,27,22,27,98,admit
+Manjesh M Gowda,8.26,Northeastern University - Construction Management,0,0.0,0,153,142,3.0,295,25,29,23,21,98,admit
+Kashyap Soni,7.8,Northeastern University - Computer Science,0,0.0,1,170,159,3.5,329,27,29,27,29,112,reject
+Kiran Jojare,9.14,Northeastern University - Computer Engineering - Computer Systems,36,3.0,0,158,139,3.5,297,25,24,22,19,90,admit
+Viv Anand,7.6,Northeastern University - Mechanical Engineering,6,0.6,1,162,156,4.5,318,30,28,28,27,113,admit
+Oorja Shetty,8.53,Northeastern University - Civil Engineering - Environmental Resources Engineering,2,0.2,1,153,143,3.5,296,21,27,26,23,97,admit
+Ruchir Pratape,7.64,Northeastern University - Bioengineering,1,0.1,0,168,160,4.0,328,24,30,28,29,111,admit
+Abhinav Jaishanker,8.64,Northeastern University - Electrical & Computer Engineering,0,0.0,2,164,151,3.5,315,24,29,25,22,100,admit
+Mohit Vaidya,8.56,Northeastern University - Electrical and Computer Engineering,0,0.0,0,159,158,4.5,317,28,27,27,30,112,admit
+Harish Balasubramaniam,8.1,Northeastern University - Computer Science,5,0.5,2,165,153,4.0,318,26,30,28,28,112,reject
+Nagendra Babu Shakamuri,8.53,Northeastern University - Software Engineering,18,1.6,0,155,149,3.5,304,19,21,27,26,93,admit
+Nagendra Babu Shakamuri,8.53,Northeastern University - Information Systems (MIS),18,1.6,0,155,149,3.5,304,19,21,27,26,93,admit
+Atharv Ganla,9.05,Northeastern University - Artificial Intelligence,0,0.0,1,165,150,4.0,315,26,29,26,25,106,admit
+Atharv Ganla,9.05,Northeastern University - Computer Science,0,0.0,1,165,150,4.0,315,26,29,26,25,106,admit
+Suraj Patil,9.13,Northeastern University - Engineering Management,0,0.0,0,164,145,3.0,309,24,26,23,27,100,admit
+Ruthwik B G,8.63,Northeastern University - Information Systems (MIS),6,0.6,2,164,154,3.0,318,22,25,24,30,101,admit
+Ishan Patel,8.5,Northeastern University - Electrical and Computer Engineering,1,0.1,3,162,147,3.5,309,24,22,26,24,96,admit
+Arjun Sharma,8.73,Northeastern University - Data Science,18,1.6,5,169,155,5.5,324,30,30,30,30,120,admit
+Chetan Kumar,8.0,Northeastern University - Robotics,0,0.0,0,164,164,2.5,328,23,30,21,27,101,admit
+Deep Sakhiya,8.71,Northeastern University - Electrical and Computer Engineering,0,0.0,2,168,156,3.0,324,19,29,22,27,97,admit
+Sai Abhishek,8.14,Northeastern University - Electrical & Computer Engineering,0,0.0,4,160,150,4.5,310,25,27,26,29,107,admit
+Venkata Abhinav Dusi,8.82,Northeastern University - Electrical and Computer Engineering,0,0.0,0,159,147,4.0,306,23,25,21,23,92,admit
+Kuldeep Singh,6.59,Northeastern University - Data Science (MSc),48,4.0,1,166,156,4.0,322,29,30,28,30,117,reject
+Somik Dhar,8.52,Northeastern University - Robotics Engineering,11,0.11,0,167,147,4.0,314,23,29,27,29,108,admit
+Ruthwik B G,8.63,Northeastern University - Computer Science,6,0.6,2,164,154,3.0,318,22,25,24,30,101,admit
+Jagannath Jayanti,8.4,Northeastern University - Computer Science,0,0.0,3,170,162,4.5,332,29,28,29,29,115,reject
+Rama Narasimhan,8.03,Northeastern University - Computer Science,38,3.2,0,168,155,4.0,323,21,26,27,30,104,admit
+Sakshi Wagh,6.24,Northeastern University - Bioinformatics,12,1.0,0,143,142,3.5,285,22,27,20,18,87,admit
+Ravichandra Basireddy,9.95,Northeastern University - Artificial Intelligence,16,1.4,0,162,142,3.0,304,20,24,23,28,95,reject
+Nikhil Manikonda,6.91,Northeastern University - Computer Science,36,3.0,0,169,150,3.0,319,22,29,22,29,102,admit
+Aabhijatya Somvanshi,7.65,Northeastern University - Data Analytics Engineering,7,0.7,1,153,145,3.5,298,28,22,25,23,98,admit
+Jyothirmai Kottu,7.79,Northeastern University - Computer Science,14,1.2,3,155,139,3.5,294,27,22,24,19,92,reject
+Ikshaku Goswami,8.7,Northeastern University - Computer Science,24,2.0,0,161,160,4.5,321,27,28,29,28,112,admit
+Gaurav Chattree,8.6,Northeastern University - Computer Science,36,3.0,1,167,155,3.0,322,25,29,22,28,104,admit
+Mehuli Sadhu,7.3,Northeastern University - Biotechnology,2,0.2,0,161,148,4.5,309,25,30,29,30,114,admit
+Adithya Abhishek Chenthilkannan,8.3,Northeastern University - Data Science,0,0.0,0,160,152,4.0,312,23,29,25,27,104,admit
+Jeseeka Shah,6.16,Northeastern University - Business Analytics - MS,24,2.0,0,153,143,3.0,296,26,23,21,21,91,admit
+Himani Mishra,8.73,Northeastern University - Computer Science,4,0.4,0,156,152,4.0,308,25,27,27,24,103,admit
+Bhupathi Ashrith,7.98,Northeastern University - Engineering Management,15,1.3,0,170,166,4.0,336,22,28,27,28,105,admit
+Kunal Rana,7.02,Northeastern University - Industrial Engineering,0,0.0,1,154,144,3.0,298,23,25,26,24,98,admit
+Muthiah Muralidharan Saravanan,8.44,Northeastern University - Mechanical Engineering - Mechatronics,0,0.0,0,160,152,4.5,312,25,24,27,25,101,admit
+Namrata Ruchandani,7.42,Northeastern University - Software Engineering,0,0.0,0,165,143,3.5,308,24,24,25,28,101,admit
+Archit Vats,8.3,Northeastern University - Computer Science,1,0.1,0,159,151,4.0,310,23,28,26,26,103,admit
+Pavan Chandrasekar,8.45,Northeastern University - Civil Engineering,0,0.0,5,160,146,3.0,306,22,28,24,26,100,admit
+Srihitha Kilari,8.26,Northeastern University - Information Systems (MIS),0,0.0,0,163,140,3.0,303,25,26,24,21,96,admit
+Kashish Santani,6.85,Northeastern University - Information Systems (MIS),0,0.0,0,166,154,3.5,320,26,25,26,29,106,admit
+Pratik Naik,9.34,Northeastern University - Computer Science,2,0.2,0,163,147,4.0,310,25,29,25,29,108,reject
+Pranav Chowdhary,7.7,Northeastern University - Engineering Management,0,0.0,0,163,152,3.5,315,26,26,24,24,100,admit
+Madhavi R,9.03,Northeastern University - Data Science,47,3.11,0,158,154,4.0,312,24,27,25,25,101,reject
+Sushanth Manivannan,9.06,Northeastern University - Computer Engineering,1,0.1,0,165,158,4.0,323,29,25,27,30,111,admit
+Ajay Babu Gorantla,7.27,Northeastern University - Artificial Intelligence,8,0.8,0,159,153,4.0,312,18,23,24,23,88,reject
+Pradyumna Ghosh,7.89,Northeastern University - Industrial Engineering,36,3.0,0,157,145,3.0,302,18,22,20,19,79,reject
+Veeral Jain,7.4,Northeastern University - Information Systems (MIS),30,2.6,0,161,162,4.5,323,25,29,28,30,112,admit
+Kshitij Nair,8.6,Northeastern University - Computer Science,3,0.3,0,162,162,4.5,324,28,28,28,28,112,admit
+Dinesh B,7.38,Northeastern University - Engineering Management,6,0.6,1,154,140,3.0,294,19,23,28,20,90,admit
+Sagar Khandagale,6.75,Northeastern University - Information Systems (MIS),30,2.6,0,151,143,3.0,294,22,24,25,26,97,admit
+Om Jadhav,6.94,Northeastern University - Cyber Security,20,1.8,1,164,155,3.5,319,24,29,27,30,110,reject
+Sanskriti Sawant,7.19,Northeastern University - Computer Engineering,2,0.2,0,161,147,4.0,308,24,30,24,25,103,reject
+Adikavya Gupta,7.7,Northeastern University - Computer Engineering,0,0.0,0,159,151,4.0,310,30,27,28,24,109,reject
+Nisha Fotedar,7.56,Northeastern University - Data Analytics,83,6.11,0,164,144,3.5,308,24,24,26,26,100,admit
+Nisha Fotedar,7.56,Northeastern University - Information Systems (MIS),83,6.11,0,164,144,3.5,308,24,24,26,26,100,admit
+Benson Thomas,9.1,Northeastern University - Computer Science,1,0.1,0,159,146,4.0,305,24,28,26,28,106,reject
+Seema P L,6.77,Northeastern University - Energy Science,0,0.0,0,153,140,3.0,293,21,23,18,21,83,admit
+Meet Pratap,7.63,Northeastern University - Chemical Engineering,8,0.8,0,162,148,3.5,310,24,28,27,27,106,admit
+Naveen Senthil Kumar,9.1,Northeastern University - Data Science,3,0.3,1,161,142,3.5,303,24,22,26,21,93,reject
+Rishita Reddy,9.03,Northeastern University - Computer Science,14,1.2,0,168,152,4.0,320,25,28,28,30,111,admit
+Nachiket Kulkarni,8.2,Northeastern University - Engineering Management,0,0.0,4,158,143,4.0,301,22,24,27,27,100,admit
+Prithvi Dev K V,7.97,Northeastern University - Mechanical Engineering,6,0.6,0,159,150,3.5,309,23,29,23,29,104,admit
+Eshan Mehrotra,8.6,Northeastern University - Data Analytics,18,1.6,0,164,155,4.0,319,24,30,29,30,113,admit
+Baasit Sharief,7.65,Northeastern University - Computer Science,12,1.0,1,168,156,4.0,324,23,28,27,28,106,reject
+Deepesh Makhija,8.14,Northeastern University - Mechanical Engineering,0,0.0,0,166,145,3.0,311,25,27,24,28,104,admit
+Tanush Tripathi,8.21,Northeastern University - Information Systems (MIS),24,2.0,1,160,146,4.0,306,22,25,24,23,94,admit
+Yashita Mehta,7.45,Northeastern University - Engineering Management,10,0.1,3,163,152,3.0,315,27,28,24,25,104,admit
+Parv Thakkar,9.41,Northeastern University - Data Science,0,0.0,0,165,149,4.0,314,25,29,26,29,109,admit
+Shivam Pednekar,9.09,Northeastern University - Computer Science,0,0.0,1,160,149,4.0,309,23,25,25,22,95,reject
+Ashwini Kumar,9.05,Northeastern University - Artificial Intelligence,24,2.0,2,160,154,4.0,314,23,29,29,29,110,admit
+Karan Kapoor,8.23,Northeastern University - Computer Science,42,3.6,1,169,152,4.5,321,24,29,28,27,108,reject
+Bhargavi Kulkrni,7.39,Northeastern University - Engineering Management,30,2.6,0,165,149,4.0,314,25,25,25,22,97,admit
+Hemendu Roy,7.58,Northeastern University - Computer Science,24,2.0,1,165,155,5.0,320,26,30,29,29,114,reject
+Rahol Saha,8.41,Northeastern University - Computer Science,9,0.9,0,165,150,4.0,315,27,25,25,27,104,admit
+Dheshan Mohandass,8.53,Northeastern University - Computer Science,2,0.2,1,159,157,4.0,316,24,28,27,29,108,admit
+Aniket Shahane,9.41,Northeastern University - Data Science,4,0.4,2,169,159,4.0,328,27,27,27,27,108,admit
+Pavan Sai,9.0,Northeastern University - Data Science,6,0.6,0,163,160,5.0,323,26,25,28,28,107,admit
+Shreyas Kulkarni,8.99,Northeastern University - Computer Science,0,0.0,1,162,150,3.0,312,28,23,25,27,103,reject
+Abhishek Sansanwal,8.8,Northeastern University - Engineering Management,0,0.0,0,167,152,3.5,319,28,25,24,29,106,admit
+Rithish Kesav S,8.2,Northeastern University - Computer Science,6,0.6,2,162,145,4.0,307,28,27,26,25,106,reject
+Shashank Shekhar,8.05,Northeastern University - Computer Science,38,3.2,0,168,157,4.0,325,27,28,22,28,105,admit
+Malavika Krishnan,7.42,Northeastern University - Data Analytics,28,2.4,0,155,153,3.5,308,26,26,26,24,102,admit
+Akshay Kumar D,7.68,Northeastern University - Information Systems (MIS),26,2.2,0,153,152,3.0,305,22,26,23,26,97,admit
+Syed Aamiruddin,7.38,Northeastern University - Cyber Security,60,5.0,1,158,150,3.0,308,21,27,25,27,100,admit
+Saravanan Arumugam,7.78,Northeastern University - Data Analytics,60,5.0,0,159,155,3.5,314,25,26,25,28,104,admit
+Abhishek Bagdare,6.42,Northeastern University - Information Systems (MIS),36,3.0,0,162,153,4.5,315,26,28,28,26,108,admit
+Mugdha Mutalik,6.6,Northeastern University - Engineering Management,5,0.5,2,155,140,3.0,295,20,22,21,20,83,admit
+Rohan Kumar,8.5,Northeastern University - Industrial Engineering,1,0.1,0,163,148,3.5,311,27,27,28,23,105,admit
+Vinutha Ananth,9.03,Northeastern University - Computer Science,40,3.4,0,150,155,4.0,305,29,30,28,28,115,admit
+Archit Vats,8.3,Northeastern University - Cyber Security,1,0.1,0,159,151,4.0,310,23,28,26,26,103,admit
+Devki Desai,8.06,Northeastern University - Computer Science,0,0.0,0,170,155,4.0,325,27,27,30,26,110,admit
+Masoom Patel,8.47,Northeastern University - Information Systems (MIS),2,0.2,0,156,144,4.0,300,28,24,22,27,101,admit
+Vineeth Ananthula,7.19,Northeastern University - Cyber Security,16,1.4,0,160,149,3.0,309,25,24,27,27,103,admit
+Kunal Mehrotra,9.13,Northeastern University - Computer Science,4,0.4,4,162,152,4.0,314,22,27,27,27,103,admit
+Poojan Thakkar,8.7,Northeastern University - Data Science,4,0.4,1,162,157,4.5,319,28,30,27,28,113,admit
+Sanjay Gajanan,8.6,Northeastern University - Computer Science,10,0.1,1,167,158,3.5,325,29,29,29,30,117,admit
+Mohit Tikariya,7.6,Northeastern University - Information Systems (MIS),0,0.0,0,158,144,3.0,302,19,25,23,28,95,reject
+Shravya Shetty,7.93,Northeastern University - Information Systems (MIS),26,2.2,0,151,145,4.0,296,23,21,29,23,96,admit
+Rupali Roy,9.06,Northeastern University - Information Systems (MIS),36,3.0,0,167,153,4.0,320,26,24,25,26,101,admit
+Nitin Sunda,6.97,Northeastern University - Computer Science,1,0.1,0,157,146,3.0,303,23,22,21,24,90,admit
+Sahil Singh,7.67,University of Texas - Austin - Electrical and Computer Engineering,18,1.6,1,167,147,3.0,314,24,29,22,23,98,reject
+Mohit Vaidya,8.56,University of Texas - Austin - Electrical and Computer Engineering,0,0.0,0,159,158,4.5,317,28,27,27,30,112,reject
+Venkata Abhinav Dusi,8.82,University of Texas - Austin - Electrical and Computer Engineering,0,0.0,0,159,147,4.0,306,23,25,21,23,92,reject
+Shaurya Gomber,9.66,University of Texas - Austin - Computer Science,18,1.6,0,169,157,4.0,326,28,30,27,30,115,reject
+Shabir Ahmad,9.2,University of Texas - Austin - Civil and Structural Engineering,2,0.2,0,158,145,4.5,303,25,23,26,20,94,admit
+Navya Singla,9.37,University of Texas - Austin - Computer and Electrical Engineering,20,1.8,0,168,152,3.5,320,24,30,23,26,103,reject
+Aravind P V,8.26,University of Texas - Austin - Computer Science,0,0.0,2,161,153,4.0,314,25,30,26,28,109,reject
+Sunand Agarwal,8.48,University of Texas - Austin - Computer Science,24,2.0,0,170,160,4.5,330,25,29,27,30,111,reject
+Utkarsh Patil,8.25,University of Texas - Austin - Industrial Engineering,30,2.6,0,168,155,4.0,323,23,30,24,30,107,reject
+Prabin Rath,8.91,University of Texas - Austin - Computer Science - Artificial Intelligence,24,2.0,6,167,160,3.5,327,25,29,26,24,104,reject
+Somik Dhar,8.52,University of Texas - Austin - Electrical and Computer Engineering,11,0.11,0,167,147,4.0,314,23,29,27,29,108,reject
+Venkatesh Madasu,7.07,University of Texas - Austin - Computer Science,84,7.0,2,161,146,3.0,307,23,28,24,28,103,reject
+Gaurav Koradiya,9.82,University of Texas - Austin - Computer Science,33,2.9,0,169,156,3.0,325,21,30,29,27,107,reject
+Abdul Samadh,8.57,University of Texas - Austin - Computer Science,29,2.5,3,169,154,4.0,323,30,30,29,30,119,reject
+Vishu Agarwal,9.07,University of Texas - Austin - Business Analytics,24,2.0,0,169,155,4.0,324,26,28,28,29,111,admit
+Aishwarya Acharekar,8.97,University of Texas - Austin - Information Technology and Management,24,2.0,1,162,142,3.5,304,24,29,24,27,104,admit
+Aadharsh Hariharan,9.3,University of Texas - Austin - Electrical and Computer Engineering,18,1.6,1,164,149,3.5,313,26,29,27,28,110,reject
+Muhammad Usman Hamid,9.3,University of Texas - Austin - Business Analytics,48,4.0,1,157,151,3.5,308,30,29,29,29,117,reject
+Dhanush Bejjarapu,8.55,University of Texas - Austin - Civil Engineering,0,0.0,0,165,153,4.5,318,27,30,28,28,113,admit
+Vedaant Rajoo,8.12,University of Texas - Austin - Computer Science,0,0.0,1,160,160,5.0,320,28,30,27,28,113,reject
+Anurag Gupta,8.18,University of Texas - Austin - Information Systems (MIS),62,5.2,0,158,153,4.0,311,28,28,26,29,111,admit
+Prerit Jain,9.22,University of Texas - Austin - Business Analytics,36,3.0,0,168,160,4.0,328,24,28,23,27,102,admit
+Shirish Shinde,6.7,University of Texas - Austin - Business Analytics,63,5.3,1,165,148,2.5,313,25,26,23,28,102,reject
+Vinutha Ananth,9.0,University of Texas - Austin - Computer Science,40,3.4,0,150,155,4.0,305,29,30,28,28,115,reject
+Aditya Varshney,8.3,University of Texas - Austin - Computer Engineering,28,2.4,0,164,151,3.0,315,27,29,26,25,107,reject
+Abhinav Singh,8.27,University of Texas - Austin - Business Analytics,33,2.9,0,170,157,3.0,327,25,28,24,30,107,reject
+Parth Mandaliya,7.57,University of Texas - Austin - Computer Science,29,2.5,0,160,170,5.0,330,25,25,25,25,100,admit
+Ajay Krishna,8.04,University of Texas - Austin - Business,15,1.3,0,165,155,5.0,320,27,27,27,30,111,admit
